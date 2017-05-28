@@ -1,0 +1,575 @@
+<!DOCTYPE html>
+<html class="no-js" lang="en">
+<head>
+<meta charset="utf-8"><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<title>Terms &amp; Conditions</title>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta name="description" content="The official Alex Jones Infowars online store including the Infowars Life line of dietary supplements. Visit our wide selection of DVDs, books, apparel, heirloom seeds, and preparedness products. Support our battle to defend freedom from global tyranny." />
+
+<meta name="keywords" content="infowars, infowars.com, alex jones, infowars life, infowars store, shop, made in 1776, prisonplanet, preparedness" />
+
+
+<link rel="icon" href="https://media.infowarsstore.com/media/favicon/default/favicon.ico" type="image/x-icon" />
+
+<script>window.Mage||(Mage={});Mage.baseURL='https://www.infowarsstore.com/';Mage.skinURL='https://media.infowarsstore.com/skin/frontend/infowars/default/'</script>
+
+<link rel="stylesheet" href="//media.infowarsstore.com/skin/frontend/base/default/css/amasty/ampromo/styles.css" />
+<link rel="stylesheet" href="//media.infowarsstore.com/skin/frontend/infowars/default/css/lib/customnotification.css" />
+<link rel="stylesheet" href="//media.infowarsstore.com/skin/frontend/infowars/default/css/mirasvit/searchautocomplete/amazon.css" />
+<link rel="stylesheet" href="//media.infowarsstore.com/skin/frontend/infowars/default/css/style.css" />
+<script src="//ajax.googleapis.com/ajax/libs/prototype/1.7.0/prototype.js"></script>
+<script>window.Prototype||document.write('<script src="//www.infowarsstore.com/js/prototype/prototype.js"><\/script>');</script>
+<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/effects.js"></script>
+<script>window.Effect||document.write('<script src="//www.infowarsstore.com/js/scriptaculous/effects.js"><\/script>');</script>
+<script src="//ajax.googleapis.com/ajax/libs/scriptaculous/1.8.2/controls.js"></script>
+<script>window.Autocompleter||document.write('<script src="//www.infowarsstore.com/js/scriptaculous/controls.js"><\/script>');</script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script>window.jQuery||document.write('<script src="//www.infowarsstore.com/js/jquery-1.11.1.min.js"><\/script>');</script>
+<script>$j=jQuery.noConflict()</script>
+<script src="//www.infowarsstore.com/js/lib/ccard.js"></script>
+<script src="//www.infowarsstore.com/js/prototype/validation.js"></script>
+<script src="//www.infowarsstore.com/js/varien/js.js"></script>
+<script src="//www.infowarsstore.com/js/varien/form.js"></script>
+<script src="//www.infowarsstore.com/js/mage/translate.js"></script>
+<script src="//www.infowarsstore.com/js/mage/cookies.js"></script>
+<script src="//www.infowarsstore.com/js/amasty/ampromo/items.js"></script>
+<script src="//www.infowarsstore.com/js/mirasvit/core/underscore.js"></script>
+<script src="//www.infowarsstore.com/js/mirasvit/core/backbone.js"></script>
+<script src="//www.infowarsstore.com/js/mirasvit/code/searchautocomplete/form.js"></script>
+<script src="//www.infowarsstore.com/js/mirasvit/code/searchautocomplete/autocomplete.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/enterprise/default/js/scripts.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/enterprise/default/js/enterprise/catalogevent.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/enterprise/default/js/enterprise/wishlist.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/mobilemenu.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/hover_intent.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/svg4everybody.min.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/mega_menu_highlight.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/newsletter_toggle.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/vendor/modernizr.min.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/vendor/matchMedia.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/vendor/matchMedia.addListener.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/app.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/minicart.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/vendor/improvely-tracking.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/comodo-head.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/lib/selectivizr.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/lib/enquire.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/lib/jquery.cycle2.min.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/lib/jquery.cycle2.swipe.min.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/lib/imagesloaded.js"></script>
+<script src="//media.infowarsstore.com/skin/frontend/infowars/default/js/toggle_faq.js"></script>
+<!--[if lt IE 7]>
+<script src="//media.infowarsstore.com/skin/frontend/enterprise/default/js/iehover-fix.js"></script>
+<![endif]-->
+
+<script>
+Mage.Cookies.path   = '/';
+Mage.Cookies.domain = '.www.infowarsstore.com';
+</script>
+<script>
+optionalZipCountries = ["HK","IE","MO","PA"];
+</script>
+
+                        <script>svg4everybody();</script>
+                    
+                        <meta name="google-site-verification" content="9wpMFG3Nl7_HoGnBDuui7vn55o8qlCPq0BJL6gnPRhE" />
+                    
+                        <meta name="msvalidate.01" content="9ADBABFF48D11EF09AE67CB51EA637F6" />
+                    <!--- Bing Conversion Tracking Code - Begin -->
+<script>
+	(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5151899"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");
+</script>
+<noscript>
+	<img src="//bat.bing.com/action/0?ti=5151899&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" />
+</noscript>
+<!--- Bing Conversion Tracking Code - End -->
+<script>var Translator = new Translate([]);</script><!-- Hotjar Tracking Code -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:98537,hjsv:5};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+
+<!-- Google Analytics and Optimize Code -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+$j(document).ready(function() {
+    ga('create', 'UA-69653310-1', 'auto');
+    ga('require', 'GTM-N29WTFJ');
+    ga('require', 'ec');
+    if($j('script[name="ec-pageview"]').length == 0) {
+        ga('send', 'pageview');
+    }
+});
+
+</script></head>
+<body class="cms-page-view cms-terms-and-conditions">
+    
+<script type="text/javascript">
+	var google_tag_params = {
+		ecomm_prodid: '',
+		ecomm_pagetype: 'other',
+		ecomm_totalvalue: 0.00,
+	};
+</script>
+
+<script type="text/javascript">
+	/* <![CDATA[ */
+		var google_conversion_id = 965941334;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+	/* ]]> */
+</script>
+
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+
+<noscript>
+	<div style="display:inline;">
+		<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/965941334/?value=0&amp;guid=ON&amp;script=0"/>
+	</div>
+</noscript>    <div class="wrapper">
+            <noscript>
+        <div class="global-site-notice noscript">
+            <div class="notice-inner">
+                <p>
+                    <strong>JavaScript seems to be disabled in your browser.</strong><br />
+                    You must have JavaScript enabled in your browser to utilize the functionality of this website.                </p>
+            </div>
+        </div>
+    </noscript>
+        <header id="header" class="header">
+    <div class="inner">
+        <a href="https://www.infowarsstore.com/" title="Infowars Store" class="logo">
+            <div class="branding">
+                <div class="inner">
+                    <h1 class="logo">
+                                                                                                                                        <svg viewBox="0 0 582.6 64.6" width="345">
+                                                                        <title>Infowars Store</title>
+                                                                        <use xlink:href="https://www.infowarsstore.com/skin/frontend/infowars/default/images/infowars_store.svg#logo"></use>
+                                </svg>
+                                                                        </h1>
+
+                                            <p class="slogan">"Thank you for supporting the infowar!"<img src="https://media.infowarsstore.com/skin/frontend/infowars/default/images/signature.svg" /></p>
+                                                        </div>
+            </div>
+        </a>
+
+    <div class="quick-access">
+                
+                <nav class="account-links">
+<ul>
+                                    <li >
+                                <a href="#primary-navigation" title="Menu" class="link-menu js-skip-link">
+                    Menu                </a>
+                            </li>
+                                            <li >
+                                <a href="#search-form-mini" title="Search" class="link-search js-skip-link">
+                    Search                </a>
+                            </li>
+                                            <li >
+                                <a href="https://www.infowarsstore.com/customer/account/" title="My Account"  class="my-account">
+                    Account                </a>
+                            </li>
+                                <li >
+        <a href="https://www.infowarsstore.com/wishlist/" title="Wishlist"  class="my-wishlist">
+        Wishlist    </a>
+    </li>
+                <li>
+        
+<a href="https://www.infowarsstore.com/checkout/cart/" data-target-element="#header-cart" class="my-cart skip-link skip-cart  no-count">
+    <span class="icon"></span>
+    <span class="label">Cart</span>
+    <span class="count">(0)</span>
+</a>
+
+<div id="header-cart" class="block block-cart skip-content">
+    <!--{CART_SIDEBAR_d34b9da06957c5adc1cf8a6a018689a2}--><div id="minicart-error-message" class="minicart-message"></div>
+<div id="minicart-success-message" class="minicart-message"></div>
+
+<div class="minicart-wrapper">
+
+    <p class="block-subtitle">
+        Recently added item(s)        <a class="close skip-link-close" href="#" title="Close">&times;</a>
+    </p>
+
+                    <p class="empty">You have no items in your shopping cart.</p>
+
+    </div>
+<!--/{CART_SIDEBAR_d34b9da06957c5adc1cf8a6a018689a2}--></div>
+    </li>
+</ul>
+</nav>
+
+                <form class="searchautocomplete UI-SEARCHAUTOCOMPLETE" id="search-form-mini" action="https://www.infowarsstore.com/catalogsearch/result/" method="get"
+    data-tip="Search entire store here..."
+    data-url="//www.infowarsstore.com/searchautocomplete/ajax/get/"
+    data-minchars="3"
+    data-delay="500">
+
+    <label for="search">Search</label>
+    <div class="nav">
+
+                <div class="nav-search-in">
+            <span class="category-fake UI-CATEGORY-TEXT">All</span>
+            <span class="nav-down-arrow"></span>
+            <select name="cat" class="category UI-CATEGORY">
+                <option value="0">All</option>
+                                <option value="109" >
+                    Infowars Life                </option>
+                                <option value="17" >
+                    Health & Wellness                </option>
+                                <option value="21" >
+                    Preparedness                </option>
+                                <option value="3" >
+                    Media                </option>
+                                <option value="6" >
+                    Gear                </option>
+                                <option value="14" >
+                    Specials                </option>
+                                <option value="9" >
+                    Support Us                </option>
+                            </select>
+        </div>
+        
+        <div class="nav-input UI-NAV-INPUT">
+            <input class="input-text UI-SEARCH" type="text" autocomplete="off" name="q" value="" maxlength="128" />
+        </div>
+
+        <div class="searchautocomplete-loader UI-LOADER">
+            <div id="g01"></div>
+            <div id="g02"></div>
+            <div id="g03"></div>
+            <div id="g04"></div>
+            <div id="g05"></div>
+            <div id="g06"></div>
+            <div id="g07"></div>
+            <div id="g08"></div>
+        </div>
+    </div>
+    <div class="nav-submit-button">
+        <button type="submit" title="Go" class="button">Go</button>
+    </div>
+    <div style="display:none" class="searchautocomplete-placeholder UI-PLACEHOLDER"></div>
+</form>
+                          <p class="welcome-msg"> </p>
+        
+    </div>
+
+        </div>
+
+    <nav id="primary-navigation" class="primary-navigation js-skip-content">
+    <ul>
+        <li id="submenu-category-node-109"  class="level0 nav-1 name-infowars-life id-109"><a href="https://www.infowarsstore.com/infowars-life.html" class="level0 ">Infowars Life</a><li id="submenu-category-node-17"  class="level0 nav-2 name-health-wellness id-17 parent"><a class="level1 toggle-submenu" href="#submenu-category-node-17"  aria-hidden="false">Show Health &amp; Wellness Submenu</a><a href="https://www.infowarsstore.com/health-and-wellness.html" class="level0 has-children">Health &amp; Wellness</a><div class="level0 submenu has-addon"><div class="addon"><p><a title="Introducing The New Emric's Essentials Line of Organic Household Products " href="https://www.infowarsstore.com/health-and-wellness/emrics-essentials.html" target="_self"><img title="Introducing The New Emric's Essentials Line of Organic Household Products " alt="Introducing The New Emric's Essentials Line of Organic Household Products " src="https://media.infowarsstore.com/media/wysiwyg/620_banners/EmricsEssentialsAutoShip-650.jpg" height="650px" width="650px" /></a></p></div><ul class="level0"><li id="submenu-category-node-87"  class="level1 nav-2-1 name-infowars-life id-87"><a href="https://www.infowarsstore.com/health-and-wellness/infowars-life.html" class="level1 ">Infowars Life</a></li><li id="submenu-category-node-257"  class="level1 nav-2-2 name-emric-s-essentials- id-257"><a href="https://www.infowarsstore.com/health-and-wellness/emrics-essentials.html" class="level1 ">Emric's Essentials </a></li><li id="submenu-category-node-88"  class="level1 nav-2-3 name-wellness id-88"><a href="https://www.infowarsstore.com/health-and-wellness/wellness.html" class="level1 ">Wellness</a></li><li id="submenu-category-node-91"  class="level1 nav-2-4 name-coffee id-91"><a href="https://www.infowarsstore.com/health-and-wellness/coffee.html" class="level1 ">Coffee</a></li><li id="submenu-category-node-231"  class="level1 nav-2-5 name-meal-management-bags id-231"><a href="https://www.infowarsstore.com/health-and-wellness/meal-management-bags.html" class="level1 ">Meal Management Bags</a></li><li id="submenu-category-node-92"  class="level1 nav-2-6 name-survival-food id-92"><a href="https://www.infowarsstore.com/health-and-wellness/food.html" class="level1 ">Survival Food</a></li><li id="submenu-category-node-157"  class="level1 nav-2-7 name-water-filtration id-157"><a href="https://www.infowarsstore.com/health-and-wellness/water-filtration.html" class="level1 ">Water Filtration</a></li><li id="submenu-category-node-158"  class="level1 nav-2-8 name-related-media id-158"><a href="https://www.infowarsstore.com/health-and-wellness/related-media.html" class="level1 ">Related Media</a></li><li id="submenu-category-node-159"  class="level1 nav-2-9 name-health-wellness-specials id-159"><a href="https://www.infowarsstore.com/health-and-wellness/health-and-wellness-specials.html" class="level1 ">Health &amp; Wellness Specials</a></li></ul></div><li id="submenu-category-node-21"  class="level0 nav-3 name-preparedness id-21 parent"><a class="level1 toggle-submenu" href="#submenu-category-node-21"  aria-hidden="false">Show Preparedness Submenu</a><a href="https://www.infowarsstore.com/preparedness.html" class="level0 has-children">Preparedness</a><div class="level0 submenu has-addon"><div class="addon"><p><a title="Alexapure Pro Water Filtration System s 25% Off" href="https://www.infowarsstore.com/alexapure-pro-water-filtration-system.html" target="_self"><img title="Alexapure Pro is 25% Off" alt="Alexapure Pro is 25% Off" src="https://media.infowarsstore.com/media/wysiwyg/620_banners/AlexapurePro25OffMemDay-650.jpg" height="620px" width="620px" /></a></p></div><ul class="level0"><li id="submenu-category-node-26"  class="level1 nav-3-1 name-water-filtration id-26"><a href="https://www.infowarsstore.com/preparedness/water-filtration.html" class="level1 ">Water Filtration</a></li><li id="submenu-category-node-89"  class="level1 nav-3-2 name-emergency-survival-foods id-89"><a href="https://www.infowarsstore.com/preparedness/emergency-survival-foods.html" class="level1 ">Emergency Survival Foods</a></li><li id="submenu-category-node-238"  class="level1 nav-3-3 name-freeze-dryers id-238"><a href="https://www.infowarsstore.com/preparedness/freeze-dryers.html" class="level1 ">Freeze Dryers</a></li><li id="submenu-category-node-77"  class="level1 nav-3-4 name-seed-center id-77"><a href="https://www.infowarsstore.com/preparedness/seed-center.html" class="level1 ">Seed Center</a></li><li id="submenu-category-node-22"  class="level1 nav-3-5 name-radios id-22"><a href="https://www.infowarsstore.com/preparedness/radios.html" class="level1 ">Radios</a></li><li id="submenu-category-node-243"  class="level1 nav-3-6 name-outdoor-survival-gear id-243"><a href="https://www.infowarsstore.com/preparedness/outdoor-survival-gear.html" class="level1 ">Outdoor Survival Gear</a></li><li id="submenu-category-node-143"  class="level1 nav-3-7 name-survival-accessories id-143"><a href="https://www.infowarsstore.com/preparedness/survival-accessories.html" class="level1 ">Survival Accessories</a></li><li id="submenu-category-node-23"  class="level1 nav-3-8 name-privacy-security id-23"><a href="https://www.infowarsstore.com/preparedness/privacy-and-security.html" class="level1 ">Privacy &amp; Security</a></li><li id="submenu-category-node-40"  class="level1 nav-3-9 name-nuclear-biological id-40"><a href="https://www.infowarsstore.com/preparedness/nuclear-and-biological.html" class="level1 ">Nuclear &amp; Biological</a></li><li id="submenu-category-node-184"  class="level1 nav-3-10 name-related-media id-184"><a href="https://www.infowarsstore.com/preparedness/related-media.html" class="level1 ">Related Media</a></li><li id="submenu-category-node-185"  class="level1 nav-3-11 name-preparedness-specials id-185"><a href="https://www.infowarsstore.com/preparedness/preparedness-specials.html" class="level1 ">Preparedness Specials</a></li></ul></div><li id="submenu-category-node-3"  class="level0 nav-4 name-media id-3 parent"><a class="level1 toggle-submenu" href="#submenu-category-node-3"  aria-hidden="false">Show Media Submenu</a><a href="https://www.infowarsstore.com/infowars-media.html" class="level0 has-children">Media</a><div class="level0 submenu has-addon"><div class="addon"><p><a title="How Trump Won" href="https://www.infowarsstore.com/how-trump-won-the-inside-story-of-a-revolution.html" target="_self"><img title="How trump Won" alt="How Trump Won" src="https://media.infowarsstore.com/media/wysiwyg/620_banners/HowTrumpWon_Mega-Menu_Optimized_.jpg" height="620" width="620" /></a></p></div><ul class="level0"><li id="submenu-category-node-13"  class="level1 nav-4-1 name-books id-13"><a href="https://www.infowarsstore.com/infowars-media/books.html" class="level1 ">Books</a></li><li id="submenu-category-node-4"  class="level1 nav-4-2 name-videos id-4"><a href="https://www.infowarsstore.com/infowars-media/videos.html" class="level1 ">Videos</a></li><li id="submenu-category-node-18"  class="level1 nav-4-3 name-media-specials id-18"><a href="https://www.infowarsstore.com/infowars-media/media-specials.html" class="level1 ">Media Specials</a></li></ul></div><li id="submenu-category-node-6"  class="level0 nav-5 name-gear id-6 parent"><a class="level1 toggle-submenu" href="#submenu-category-node-6"  aria-hidden="false">Show Gear Submenu</a><a href="https://www.infowarsstore.com/gear.html" class="level0 has-children">Gear</a><div class="level0 submenu has-addon"><div class="addon"><p><a title="Trump Pence 2020 Shirt Now $4.95" href="https://www.infowarsstore.com/gear/apparel/trump-pence-2020-battlecry-shirt.html" target="_self"><img title="Trump Pence 2020 Now Only $4.95" alt="Trump Pence 2020 Now Only $4.95" src="https://media.infowarsstore.com/media/wysiwyg/620_banners/TrumpPencePromo-650.jpg" height="650px" width="650px" /></a></p></div><ul class="level0"><li id="submenu-category-node-93"  class="level1 nav-5-1 name-made-in-1776-made-in-the-usa id-93"><a href="https://www.infowarsstore.com/gear/made-in-1776-made-in-the-usa.html" class="level1 ">Made In 1776: Made In The USA</a></li><li id="submenu-category-node-239"  class="level1 nav-5-2 name-outdoor-survival-gear id-239"><a href="https://www.infowarsstore.com/gear/outdoor-survival-gear.html" class="level1 ">Outdoor Survival Gear</a></li><li id="submenu-category-node-248"  class="level1 nav-5-3 name-personal-protective-gear id-248"><a href="https://www.infowarsstore.com/gear/personal-protective-gear.html" class="level1 ">Personal Protective Gear</a></li><li id="submenu-category-node-186"  class="level1 nav-5-4 name-apparel id-186"><a href="https://www.infowarsstore.com/gear/apparel.html" class="level1 ">Apparel</a></li><li id="submenu-category-node-16"  class="level1 nav-5-5 name-stickers-decals id-16"><a href="https://www.infowarsstore.com/gear/stickers-and-decals.html" class="level1 ">Stickers &amp; Decals</a></li><li id="submenu-category-node-51"  class="level1 nav-5-6 name-flags id-51"><a href="https://www.infowarsstore.com/gear/flags.html" class="level1 ">Flags</a></li><li id="submenu-category-node-189"  class="level1 nav-5-7 name-water-bottles id-189"><a href="https://www.infowarsstore.com/gear/water-bottles.html" class="level1 ">Water Bottles</a></li><li id="submenu-category-node-199"  class="level1 nav-5-8 name-accessories id-199"><a href="https://www.infowarsstore.com/gear/accessories.html" class="level1 ">Accessories</a></li><li id="submenu-category-node-207"  class="level1 nav-5-9 name-optics id-207"><a href="https://www.infowarsstore.com/gear/optics.html" class="level1 ">Optics</a></li><li id="submenu-category-node-215"  class="level1 nav-5-10 name-gear-specials id-215"><a href="https://www.infowarsstore.com/gear/gear-specials.html" class="level1 ">Gear Specials</a></li></ul></div><li id="submenu-category-node-14"  class="level0 nav-6 name-specials id-14 parent"><a class="level1 toggle-submenu" href="#submenu-category-node-14"  aria-hidden="false">Show Specials Submenu</a><a href="https://www.infowarsstore.com/specials-clearance.html" class="level0 has-children">Specials</a><div class="level0 submenu has-addon"><div class="addon"><p><a title="Secret 12 Now 25% OFF " href="https://www.infowarsstore.com/health-and-wellness/infowars-life/secret-12-vitamin-b12-2.html" target="_self"><img title="Secret 12 Memorial Day Special Get 43 Percent OFF" alt="Secret 12 Memorial Day Special Get 43 Percent OFF" src="https://media.infowarsstore.com/media/wysiwyg/620_banners/Secret12MDAY-650.jpg" height="650px" width="650px" /></a></p></div><ul class="level0"><li id="submenu-category-node-230"  class="level1 nav-6-1 name-accessories-specials id-230"><a href="https://www.infowarsstore.com/specials-clearance/holiday-mega-deals.html" class="level1 ">Accessories Specials</a></li><li id="submenu-category-node-19"  class="level1 nav-6-2 name-current-specials id-19"><a href="https://www.infowarsstore.com/specials-clearance/current-specials.html" class="level1 ">Current Specials</a></li><li id="submenu-category-node-216"  class="level1 nav-6-3 name-infowars-life-specials id-216"><a href="https://www.infowarsstore.com/specials-clearance/infowars-life-specials.html" class="level1 ">Infowars Life Specials</a></li><li id="submenu-category-node-217"  class="level1 nav-6-4 name-health-wellness-specials id-217"><a href="https://www.infowarsstore.com/specials-clearance/health-and-wellness-specials.html" class="level1 ">Health &amp; Wellness Specials</a></li><li id="submenu-category-node-218"  class="level1 nav-6-5 name-preparedness-specials id-218"><a href="https://www.infowarsstore.com/specials-clearance/preparedness-specials.html" class="level1 ">Preparedness Specials</a></li><li id="submenu-category-node-219"  class="level1 nav-6-6 name-media-specials id-219"><a href="https://www.infowarsstore.com/specials-clearance/media-specials.html" class="level1 ">Media Specials</a></li><li id="submenu-category-node-220"  class="level1 nav-6-7 name-gear-specials id-220"><a href="https://www.infowarsstore.com/specials-clearance/gear-specials.html" class="level1 ">Gear Specials</a></li><li id="submenu-category-node-15"  class="level1 nav-6-8 name-clearance id-15"><a href="https://www.infowarsstore.com/specials-clearance/clearance.html" class="level1 ">Clearance</a></li></ul></div><li id="submenu-category-node-9"  class="level0 nav-7 name-support-us id-9 parent"><a class="level1 toggle-submenu" href="#submenu-category-node-9"  aria-hidden="false">Show Support Us Submenu</a><a href="https://www.infowarsstore.com/support-infowars.html" class="level0 has-children">Support Us</a><div class="level0 submenu has-addon"><div class="addon"><p><a title="Infowars Store e-Gift Cards Now Available!" href="https://www.infowarsstore.com/infowars-store-giftcard.html" target="_self"><img title="Infowars Store e-Gift Cards Now Available!" alt="Infowars Store e-Gift Cards Now Available!" src="https://media.infowarsstore.com/media/wysiwyg/620_banners/eGiftCard-650.jpg" height="650px" width="650px" /></a></p></div><ul class="level0"><li id="submenu-category-node-223"  class="level1 nav-7-1 name-tv-infowars-com id-223"><a href="https://www.infowarsstore.com/support-infowars/tv-infowars-com.html" class="level1 ">tv.infowars.com</a></li><li id="submenu-category-node-222"  class="level1 nav-7-2 name-youngevity id-222"><a href="https://www.infowarsstore.com/support-infowars/youngevity.html" class="level1 ">Youngevity</a></li><li id="submenu-category-node-10"  class="level1 nav-7-3 name-donations id-10"><a href="https://www.infowarsstore.com/support-infowars/donations.html" class="level1 ">Donations</a></li></ul></div>    </ul>
+</nav>
+
+</header>
+        <div class="main-wrapper">
+          <nav class="breadcrumbs">
+    <ol>
+                    <li class="home">
+                            <a href="https://www.infowarsstore.com/" title="Go to Home Page">Home</a>
+                        </li>
+                    <li class="cms_page">
+                            Terms &amp; Conditions                        </li>
+            </ol>
+</nav>
+          <main id="main">
+                            <div class="std"><h1 class="page-title" style="text-align: left; color: #000;">TERMS &amp; CONDITIONS</h1>
+<p>Please read these Terms and Conditions carefully before using the website. The Terms and Conditions contain important information about your rights and obligations, as well as limitations and exclusions. By using this website or by ordering any product from InfowarsStore.com, you confirm your unconditional agreement to, and acceptance of, these Terms and Conditions. If you elect not to accept these Terms and Conditions, do not use this website.</p>
+<p>&nbsp;</p>
+<div class="cms-terms-wrapper"><ol class="terms">
+<li class="item-link"><a href="#bitcoin">Bitcoin</a></li>
+<li class="item-link"><a href="#copyright">Copyright and trademark notice</a></li>
+<li class="item-link"><a href="#credit-cards">Credit Cards</a></li>
+<li class="item-link"><a href="#export-policy">Export Policy</a></li>
+<li class="item-link"><a href="#links">Links</a></li>
+<li class="item-link"><a href="#money">Money Orders, Cashier's Checks, Company Checks, &amp; Personal Checks</a></li>
+<li class="item-link"><a href="#order-acceptance">Order Acceptance Policy</a></li>
+<li class="item-link"><a href="#other-conditions">Other Conditions</a></li>
+<li class="item-link"><a href="#privacy">Privacy</a></li>
+<li class="item-link"><a href="#privacy-other">Privacy on other web sites</a></li>
+<li class="item-link"><a href="#restricted-products">Restricted products</a></li>
+<li class="item-link"><a href="#returns">Returns</a></li>
+<li class="item-link"><a href="#shipping-policy">Shipping Policy</a></li>
+<li class="item-link"><a href="#stickers">Stickers and posting</a></li>
+<li class="item-link"><a href="#supplements">Supplement &amp; Food product Disclaimer</a></li>
+<li class="item-link"><a href="#taxes">Taxes</a></li>
+<li class="item-link"><a href="#typographical">Typographical Errors</a></li>
+<li class="item-link"><a href="#AutoShip">Auto Ship Terms and Conditions</a></li>
+<li class="item-link"><a href="#BodyArmor"> Body Armor &amp; Protection Gear</a></li>
+<li class="item-link"><a href="#IndemnityInformation">Indemnity Information</a></li>
+<li class="item-link"><a href="#ThirdParty">Third Party Linking</a></li>
+<li class="item-link"><a href="#WebsiteChanges">Website Changes</a></li>
+<li class="item-link"><a href="#Enforcement">Enforcement of Terms and Conditions/Jurisdiction</a></li>
+<li class="item-link"><a href="#HealthInfo">Health-Related Information</a></li>
+<li class="item-link"><a href="#reviews">Reviews Notice</a></li>
+</ol><ol class="conditions">
+<li id="bitcoin" class="item">1. Bitcoin<a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">All orders placed using bitcoin as payment are final. There are no refunds. No exceptions.</p>
+<ol class="conditions">
+<li id="copyright" class="item">2. Copyright and trademark notice <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">Unless otherwise specified, all materials appearing on this site, including the text, site design, logos, graphics, icons, and images, as well as the selection, assembly and arrangement thereof, are the sole property of this Store. You may use the content of this site only for the purpose of shopping on this site or placing an order on this site and for no other purpose. No materials from this site may be copied, reproduced, modified, republished, uploaded, posted, transmitted, or distributed in any form or by any means without our prior written permission. All rights not expressly granted herein are reserved. Any unauthorized use of the materials appearing on this site may violate copyright, trademark and other applicable laws and could result in criminal or civil penalties.</p>
+<ol class="conditions">
+<li id="credit-cards" class="item">3. Credit Cards <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">We accept the following credit cards: American Express, Visa, MasterCard, and Discover. There is no surcharge for using your credit card to make purchases. Please be sure to provide your exact billing address and telephone number (i.e. the address and phone number your credit card bank has on file for you). Incorrect information will cause a delay in processing your order.</p>
+<ol class="conditions">
+<li id="export-policy" class="item">4. Export Policy <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">International Traffic in Arms Regulations (ITAR): Some of the items on this website are subject to the International Traffic in Arms Regulations (ITAR), and export is strictly prohibited without authorization or a license issued by the U.S. Department of State's Directorate of Defense Trade Controls. By proceeding with a transaction to purchase any ITAR restricted item(s), the Customer certifies that they are a U.S. Person as defined by ITAR &sect; 120.15, meaning the Customer is a lawful permanent resident of the U.S., as defined by 8 U.S.C. &sect; 1101(a)(20), or is a protected individual as defined by 8 U.S.C. &sect; 1324b(a)(3), or is a "corporation, business association, partnership, society, trust, or any other entity, organization or group that is incorporated to do business in the U.S., or is a governmental (federal, state, or local) entity" (See ITAR &sect; 120.15). Customer additionally agrees that the Customer does not intend to export such items after receipt from Infowars Store (Free Speech Systems, LLC) without the appropriate U.S. Government export authorization. The Customer does not intend to export, transfer, sell, or furnish the item to any foreign person, whether abroad or in the U.S., including any Foreign Embassy in the U.S., without the appropriate U.S. Government export authorization. The Customer understands that a foreign person under the ITAR &sect; 120.16 means "any natural person who is not a lawful permanent resident as defined by 8 U.S.C. &sect; 1101(a)(20) or who is not a protected individual as defined by 8 U.S.C. &sect; 1324b(a)(3)," and can mean "any foreign corporation, business association, trust, society, or any other entity or group that is not incorporated or organized to do business in the U.S., as well as international organizations, foreign governments, and any agency or subdivisions of government (e.g. diplomatic missions)" (See ITAR &sect; 120.16) Export Administration Regulations (EAR): Some of the items on this website are subject to the Export Administration Regulations (EAR), and export may be restricted by the U.S. Department of Commerce's Bureau of Industry and Security. By proceeding with a transaction to purchase any restricted item(s), the Customer certifies that they are a U.S Citizen or Lawful Permanent Resident. The customer agrees that they will not export, ship, transfer, give or otherwise render products to any person, company or entity with the intention of exporting. APO/FPO: While we proudly support the Members of the US Military deployed around the world and believe that it is a great privilege to service their needs, we must fully comply with all United States export control laws and regulations. Under these laws and regulations any shipment to an APO/FPO that is physically located outside of the 50 United States must be considered an Export, regardless of your military service status, rank, etc. The Customer is responsible for any import restrictions, prohibited and/or restricted items, taxes, tariffs, fees and other duties. The Customer is responsible for complying with any and all international, national, or local laws regulating the importation of products. Infowars Store reserves the right to inquire into the end user, end use, and country of ultimate destination of any product ordered on this website. Export control laws and regulations are complex. Any summaries of such laws and regulations provided by Infowars Store herein are not comprehensive and are not to be taken as legal advice or counseling.</p>
+<ol class="conditions">
+<li id="links" class="item">5. Links <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">This site may contain links to other sites on the Internet that are owned and operated by third parties. You acknowledge that we're not responsible for the operation of or content located on or through any such site.</p>
+<ol class="conditions">
+<li id="money" class="item">6. Money Orders, Cashier's Checks, Company Checks, &amp; Personal Checks <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">We accept money orders, cashier&rsquo;s checks, personal checks, and company checks in U.S. Dollars only. Orders are processed upon receipt of a money order or cashier&rsquo;s check. Please send checks and/or money order to: Free Speech Systems PO Box 19549 Austin, TX 78760 For personal and company checks, please allow up to 10 banking days after receipt for clearance of funds before the order is processed. We cannot guarantee the availability of a product by the time funds clear or payment is received. We will charge a $25 fee on all returned checks.</p>
+<ol class="conditions">
+<li id="order-acceptance" class="item">7. Order acceptance policy<a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">Your receipt of an electronic or other form of order confirmation does not signify our acceptance of your order, nor does it constitute confirmation of our offer to sell. Alex Jones' Infowars Store reserves the right at any time after receipt of your order to accept or decline your order for any reason or to supply less than the quantity you ordered of any item.</p>
+<ol class="conditions">
+<li id="other-conditions" class="item">8. Other conditions <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">These Conditions will supersede any terms and/or conditions you include with any purchase order, regardless of whether Infowarsshop.com signs them or not. We reserve the right to make changes to this site and these Conditions at any time.</p>
+<ol class="conditions">
+<li id="privacy" class="item">9. Privacy <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">We keep your personal information private and secure. When you make a purchase from our site, you provide your name, email address, credit card information, address, phone number, and a password. We use this information to process your orders, to keep you updated on your orders and to personalize your shopping experience. Our secure servers protect your information using advanced encryption techniques and firewall technology. To keep you informed about our latest offers, we may notify you of current promotions, specials and new additions to the Infowars Store site. You may unsubscribe from our newsletters by following the unsubscribe instructions in any email you receive from us. When entering any of our contests or prize drawings, you provide your name, email address and mailing address. If you win, we will send the prize to the address entered and notify you by email. When you enter a contest or drawing you are also included in our newsletter list to receive notice of promotions, specials and new additions to the Infowars Store site. You may unsubscribe from this news list by following the unsubscribe instructions in any email received. We use "cookies" to keep track of your current shopping session to personalize your experience and so that you may retrieve your shopping cart at any time.</p>
+<ol class="conditions">
+<li id="privacy-other" class="item">10. Privacy on other websites <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">Other sites accessible through our site have their own privacy policies and data collection practices. Please consult each site's privacy policy. Our Store is not responsible for the actions of third parties.</p>
+<ol class="conditions">
+<li id="restricted-products" class="item">11. Restricted Products <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">This site sells restricted items that cannot be sold to minors, convicted felons, those convicted of a misdemeanor crime of domestic abuse or chemically dependent. MUST be 18 years of age and have no legal disabilities to order restricted items. By agreeing to the Terms and Conditions when purchasing an order for restricted items, you are verifying that you are at least 18 years old, have no felony convictions, are in compliance with Federal Law 18U.S.C. 922(D)-(1)-(9), and that you are in compliance with any and all other Federal and State regulations and laws.</p>
+<ol class="conditions">
+<li id="returns" class="item">12. Returns <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">Refund Policy: Satisfaction Guaranteed<br /> <br /> If for any reason you are unsatisfied with your purchase(s) within the first 30 days of receipt, please return any unused portion for an exchange or refund. We reserve the right to accept or deny any returns based on product misuse, neglect, or other "Acts of God" beyond our control. If your product(s) arrive(s) damaged please contact our <a title="Customer Support " href="https://infowars.zendesk.com/" target="_blank">customer support department</a>.<br /> <br /> We adhere to the standard Consumer Protection guidelines as promulgated by the Attorneys General or other competent state authorities.<br /> <br /> Send your exchanges/returns to:<br /> <br /> Infowars Store<br /> PO Box 19549<br /> Austin TX 78760</p>
+<ol class="conditions">
+<li id="shipping-policy" class="item">13. Shipping Policy <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description"><strong>Shipping Methods:</strong> We highly recommend that the buyer choose UPS for the shipping method. UPS provides tracking information for all orders and insurance for lost or damaged packages. If the buyer chooses another method of shipping, it is at the buyers discretion, and the buyer will accept all liability for lost or damaged orders. Free Speech Systems, LLC will not and cannot do anything for lost or damaged orders that were not sent via UPS Shipping methods.</p>
+<p class="item-description"><strong>Shipping: Shipping charges are non-refundable.</strong> Customer is responsible for all freight charges for refused and/or returned shipments and this will be added to the invoice total. Freight/insurance costs are prepaid. All items are shipped via USPS or UPS. Items will be shipped within one week of receipt of order, though generally much sooner. Out of stock items will be shipped according to availability of product. Dimensions/oversize weights are applied to freight charges when applicable.</p>
+<p class="item-description"><strong>Backorders:</strong> If your order contains a pre-ordered item, or a back-ordered item, the entire order will ship once all items are in stock. If you would like to have a partial order shipped immediately, please contact our offices at (512)291-5750 Ext. 56 or 96. An additional shipping charge will apply for this instance.</p>
+<p class="item-description"><strong>Damage/Loss</strong>: All claims for damage/pilferage must be filed with delivering carrier. Infowars.com cannot file this for you. All claims for shortage/mis-shipments/mis-billing must be made within 10 days of receipt. In the event of a faulty product, the product must be returned, at which point we will ship out a replacement product. Disclaimers: Although we try to insure accuracy, Infowars.com cannot be responsible for typographical errors or image discrepancies on this Web Site. Links on Infowars.com become "broken" if and when the article linked to is moved or removed by the host on its server.</p>
+<ol class="conditions">
+<li id="stickers" class="item">14. Stickers and postings <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">Infowars Stickers and other promotional materials are only intended for legal and lawful use. Please refrain from defacing any public property. Respect your fellow citizens&rsquo; private property rights and do not post stickers without prior consent. Alex Jones and Free Speech Systems, LLC do not condone any illegal, prohibited or disrespectful use of Infowars.com stickers and are not liable for any damages resulting from the inappropriate use of these stickers.</p>
+<ol class="conditions">
+<li id="supplements" class="item">15. Supplement &amp; Food product disclaimer <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">* These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using this product.</p>
+<p class="item-description"><strong>Supplement &amp; Food Product Disclaimer:</strong> Infowars thanks you for your support of the operation. As always, we offer what we have researched and believe to be the highest quality selection of products for you and your family that have been developed along with the advisory of top doctors and experts. It is important to do your own research and consult with a qualified healthcare provider or doctor to decide what is best for you. We also know that everyone's bodies are different, and it is essential to consult with a qualified health care professional before taking products offered on this website. The information on this website is not intended to replace a one-on-one relationship with a doctor or qualified health care professional and is not intended as medical advice. And by purchasing any item from this store, you agree to these terms and conditions as well as understand that by using these products you are agreeing to abide by this contract. Infowars Life is not held responsible for the irresponsible use of this product. The information contained in these pages is not intended to replace your medical doctor. By using this site for any purpose whatsoever, including reading, browsing, studying, verification, purchasing, etc., you are agreeing to indemnify Infowars Life, Survival Shield, infowarslife.com, infowarsshop.com, infowarsstore.com, Alex Jones, Free Speech Systems, LLC from any claims or responsibility for anything which may result there from, and you accept sole responsibility for any legal, medical, or financial liability which may occur as a result of your usage of the pages on this site.</p>
+<ol class="conditions">
+<li id="taxes" class="item">16. Taxes <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">Our Store shall automatically charge and withhold the applicable sales tax for orders to be delivered to addresses within the same state. For orders shipped to other states, you are solely responsible for all sales taxes or other taxes.<br /> <br /> <span style="font-weight: bold;">International customers</span> are solely responsible for any additional taxes, levies, duties, fees, tariffs and/or any other expenses related to importing the product(s) you order.&nbsp; Please check with your country's customs office regarding the import of the products you intend to order.&nbsp; As the buyer, you are responsible for any import restrictions, prohibited import items, taxes, tariffs, fees and other duties.&nbsp; You are responsible for complying with international, national, or local laws regulating the importation of products.&nbsp; If an order is refused delivery by customs due to unauthorized contents, INFOWARS SHOP is not responsible for any losses or cost incurred by you, the customer.&nbsp; If the shipment is abandoned or discarded by customs, you will not receive a refund or credit of any kind.&nbsp; By ordering, you agree to these terms.&nbsp;</p>
+<ol class="conditions">
+<li id="typographical" class="item">17. Typographical Errors <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">In the event a product is listed at an incorrect price due to typographical error or error in pricing information received from our suppliers, Our Store shall have the right to refuse or cancel any orders placed for product listed at the incorrect price. Our Store shall have the right to refuse or cancel any such orders whether or not the order has been confirmed and your credit card charged. If your credit card has already been charged for the purchase and your order is canceled, Our Store shall immediately issue a credit to your credit card account in the amount of the incorrect price.</p>
+<ol class="conditions">
+<li id="AutoShip" class="item">18. Auto Ship Terms and Conditions <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">Welcome to the terms and conditions ("Terms") for InfowarsStore.com&rsquo;s Auto Ship subscription service. These Terms are between you and Infowars Store and govern our respective rights and obligations for subscription ordering. The Terms constitute the entire agreement between you and InfowarsStore.com related to subscription ordering. If you place an order through our subscription ordering program, you accept these Terms. Please read these Terms carefully.</p>
+<p class="item-description"><strong>Program Benefits</strong></p>
+<p class="item-description">After you select the frequency with which you want to receive your supplements, we will automatically send out your orders for delivery on the schedule you selected. Auto-Ship orders can be scheduled for weekly deliveries, at a frequency of every 14 Days, 30 Days and 42 Days. There are additional options for 60 and 90 Day to Auto Ship, but do vary based on availability and product itself. Your enrollment in Auto-Ship starts with your first automatic delivery order.</p>
+<p>All participants will receive an email notification 2 days prior to their fulfillment order being placed. Orders may be canceled and or changed up until the order is placed. You will only be charged for orders that have been sent out for delivery. You may also change the replenishment frequency, item quantity and method of payment associated with your subscription at any time online by accessing &ldquo;My Subscriptions&rdquo; in the "My Account" Option or calling 1-888-253-3139.</p>
+<p class="item-description"><strong>Payments</strong></p>
+<p class="item-description">The total cost charged to your method of payment for each order will be the price of the item(s) on the day the order is processed plus sales tax and delivery fees. &nbsp;Please note that your original purchase price does not secure a locked-in rate. &nbsp;The reoccurring subscription payment may be different than the promotional price you opted in with. &nbsp;For example, if you purchased an item that is on sale for $19.95 and you opted into our Auto Ship program. &nbsp;You would be charged $17.96 ($19.95 - 10%) plus any applicable taxes. &nbsp; If on the first day of your renewal the item is no longer on sale for $19.95 and has returned to its regular price of $24.95. &nbsp;You will be charged for payment of the item that reflects the current price that day, ($24.95 + any applicable shipping ).&nbsp;Delivery fees will be based on standard shipping rates to your ship to location.</p>
+<p>Unless you update your method of payment, the charge for each order will be billed to the method of payment used when you placed your first Auto-Delivery order. If the method of payment becomes invalid at any time during the subscription period or if the charge is otherwise rejected, we will send an email to the email address associated with your subscription notifying you that the subscription has been placed on hold. Your subscription will remain on hold and no additional orders will be processed or shipped until the information is updated.</p>
+<p>Your subscription will remain in effect until your subscription is cancelled. Any related item discounts and/or incentives will remain in effect until the subscription is cancelled or until the expiration date of the offer, whichever is earlier. Other promotion pricing and limited-time offers may not be combined with the Auto-Ship order discounts and/or incentives (e.g. Coupons and/or Other Promotional Offers Included Saving 10% on your first Auto Ship Order).</p>
+<p class="item-description"><strong>Agreement Changes</strong></p>
+<p class="item-description">We may, in our sole discretion, change these Terms and/or our Privacy Policy at any time. Any such changes to the Auto-Ship program will be communicated via email. Changes to our Privacy Policy may be made on the site without notice. By using Auto-Ship, you agree to be bound by any such revisions and should therefore periodically visit this page to determine the current Terms to which you are bound. We may terminate your Auto-Ship plan at our discretion without notice. If we do so, you will only be charged for orders that have been sent out for delivery to you.</p>
+<ol class="conditions">
+<li id="BodyArmor" class="item">19. Body Armor &amp; Protection Gear <a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">Please know that Infowars follows any applicable laws regarding body armor sale or any other protection gear or otherwise, so please know your local and federal laws prior to purchasing. By using and purchasing on this website, you agree that by purchasing you understand that nothing is completely 'bulletproof' and that you assume all risks of use or misuse, and agree not to hold us liable in any way. In addition, you are also responsible for and hold all liability for the safety, use, and proper installation of your ballistic panels and any and all other items relating to body armor and any other items sold on the Infowars Store. This includes any and all gear, including backpack armor, body armor, lower receivers, and any and all other items.</p>
+<p class="item-description">Infowars does not condone misuse in any manner of these body armor products, which are only meant as a form of potential protection in an absolute emergency. Please understand there will always be danger in these types of situations, and any situation involving the use of body armor and ballistics. Infowars, Infowars Store, and all of its parent companies and affiliates assume NO liability. We are not an insurer, and bear no liability for any use, misuse, or failure to perform.</p>
+<p class="item-description">Purchaser covenants and agrees that the purchaser or his heirs, agents, assigns shall NEVER bring any action in any court of law from any dispute arising from the Purchase and Sale of product(s) sold by InfowarsStore.com or any of its affiliates. If any part of these Terms are held to be invalid by a court of competent jurisdiction, such shall not affect the validity of any other part of these Terms.</p>
+<p class="item-description">These terms may be updated without prior notice.</p>
+<ol class="conditions">
+<li id="IndemnityInformation" class="item">20. Indemnity Information<a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">You agree to indemnify and hold Infowars.com, InfowarsStore.com, and our parents, affiliates (and their franchisees and licensees), and subsidiaries, officers, directors, employees, successors and assigns, harmless from any claim, loss or demand, including reasonable attorneys' fees, made by any third party due to or arising out of your use of our Website, your connection to our Website, your violation of these Terms and Conditions, or your violation of any rights of another party. This indemnity survives termination of these Terms and Conditions.</p>
+<ol class="conditions">
+<li id="ThirdParty" class="item">21. Third Party Linking<a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">From time to time, this Website may contain links to websites that are not owned, operated or controlled by Infowars.com and InfowarsStore.com or their respective affiliates. These links are for your convenience only and are not under our control. You acknowledge and agree that Infowars.com and InfowarsStore.com is not responsible for the availability of such external sites or resources, and does not endorse any such site, its use or contents and is not responsible or liable for any content, advertising, products, or other materials on or available from such websites or resources. Neither we nor any of our respective affiliates endorse, guarantee, or make any representations or warranties regarding any other websites, or any content, materials or other information located or accessible from any other websites, or the results that you may obtain from using any other websites. If you decide to access any other websites linked to or from this Website, you do so entirely at your own risk.</p>
+<p class="item-description">Products and/or services purchased through third-party websites are subject to the Terms and Conditions of such other parties and their websites, and Infowars.com and InfowarsStore.com shall have no liability or responsibility theretofore.</p>
+<ol class="conditions">
+<li id="WebsiteChanges" class="item">22. Website Changes<a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">Infowars.com and InfowarsStore.com reserves the right to modify or discontinue, temporarily or permanently, the Website as a whole and/or any or all of the Website features, products, prices of products, promotions, services or information appearing on, or available through, any or all of the Website with or without notice to you. You agree that Infowars.com and InfowarsStore.com shall not be liable to you or any third-party for any modification or discontinuance of such features, products, prices, services, or information on the Website or the Website itself.</p>
+<ol class="conditions">
+<li id="Enforcement" class="item">23. Enforcement of Terms and Conditions/Jurisdiction<a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">These Terms and Conditions are governed and interpreted pursuant to the laws of the State of Texas, United States of America, notwithstanding any principles of conflicts of law. If any part of these Terms and Conditions is unlawful, void or unenforceable, that part will be deemed severable and will not affect the validity and enforceability of remaining provisions. Any claim relating to the Infowars.com Website, our Website Terms and Conditions, and the relationship between you and Infowars.com shall be governed by the laws of the United States and the State of Texas without regard to its conflict of law provisions. You and Infowars.com agree to submit to the personal and exclusive jurisdiction of the courts located within the geographic area encompassed within the United States District Court for Travis County, Texas.</p>
+<p class="item-description">Our failure to exercise or enforce any right or provision of these Terms and Conditions shall not constitute a waiver of such right or provision by us. If any provision of these Terms and Conditions is found by a court of competent jurisdiction to be invalid, the parties nevertheless agree that the court should endeavor to give effect to the parties' intentions as reflected in the provision, and the other provisions of our Terms and Conditions remain in full force and effect. YOU AGREE THAT REGARDLESS OF ANY STATUTE OR LAW TO THE CONTRARY, ANY CLAIM OR CAUSE OF ACTION ARISING OUT OF OR RELATED TO USE OF THE WEBSITE OR OUR TERMS AND CONDITIONS MUST BE FILED WITHIN ONE (1) YEAR AFTER SUCH CLAIM OR CAUSE OF ACTION AROSE OR BE FOREVER BARRED.</p>
+<ol class="conditions">
+<li id="HealthInfo" class="item">24. Health-Related Information<a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">The information contained in the Website is provided for informational purposes only and is not meant to substitute for the advice provided by your doctor or other health care professional. You should not use the information available on or through the Infowars.com or InfowarsStore.com Website (including, but not limited to, information that may be provided by healthcare and/or nutrition professionals employed by, or contracting with, Infowars.com or InfowarsStore.com) for diagnosing or treating a health problem or disease, or prescribing any medication. Information and statements regarding dietary supplements have not been evaluated by the Food and Drug Administration unless specifically so stated. You should carefully read all product packaging prior to use.</p>
+<ol class="conditions">
+<li id="reviews" class="item">25. Reviews Notice<a href="#header">BACK TO TOP ^</a></li>
+</ol>
+<p class="item-description">We do not moderate the comments consumers make about our products outside of our third party partner Power Reviews, which screens them for authenticity and other factors. We appreciate the feedback and share some typical comments here.</p>
+</div></div>          </main>
+                  </div>
+        <footer id="footer" class="footer">
+    
+<nav class="footer-nav"><ul>
+<li><a href="https://www.infowarsstore.com/faq">FAQ</a></li>
+<li><a href="https://www.infowarsstore.com/contact-us">Contact Us</a></li>
+<li><a href="http://infowars.com">Infowars.com</a></li>
+<li><a href="https://www.infowarsstore.com/terms-and-conditions">Terms &amp; Conditions</a></li>
+<li><a href="https://www.infowarsstore.com/privacy-policy">Privacy Policy</a></li>
+<li><a href="https://www.infowarsstore.com/terms-and-conditions#returns">Returns</a></li>
+</ul><div class="accepted-payments">
+  <script language="JavaScript" type="text/javascript">
+  TrustLogo("https://media.infowarsstore.com/skin/frontend/infowars/default/images/trust-badges/comodo_secure.png", "CL1", "none");
+  </script>
+  <a  href="https://ssl.comodo.com" id="comodoTL" style="display:none">SSL Certificates</a>
+  <div class="payment-methods">
+    <svg viewBox="0 0 206 55" width="30">
+      <use xlink:href="https://www.infowarsstore.com/skin/frontend/infowars/default/images/payment-methods/paypal.svg#paypal"></use>
+    </svg>
+    <svg viewBox="0 0 152.5 49.1" width="30">
+      <use xlink:href="https://www.infowarsstore.com/skin/frontend/infowars/default/images/payment-methods/visa.svg#visa"></use>
+    </svg>
+    <svg viewBox="0 0 177 113" width="30">
+      <use xlink:href="https://www.infowarsstore.com/skin/frontend/infowars/default/images/payment-methods/discover.svg#discover"></use>
+    </svg>
+    <img src="https://media.infowarsstore.com/skin/frontend/infowars/default/images/payment-methods/American-Express-wide.png" style="width:36px;height:25px;"/>
+    <svg viewBox="0 0 296 177.2" width="30">
+      <use xlink:href="https://www.infowarsstore.com/skin/frontend/infowars/default/images/payment-methods/mastercard.svg#mastercard"></use>
+    </svg>
+  </div>
+</div>
+<div class="accepted-payments">
+  <!-- BEGIN GCR Badge Code -->
+  <script src="https://apis.google.com/js/platform.js" async defer></script>​
+  <g:ratingbadge merchant_id=110257689></g:ratingbadge>​
+  <!-- END GCR Badge Code -->
+</div></nav><div class="footer-contact-info"><div>
+<h2>Phone Orders</h2>
+<div><strong>1-888-253-3139</strong></div>
+<p>Mon-Fri, 8am to 6pm CST</p>
+</div>
+<div>
+<h2>Mail Orders</h2>
+<div><strong>Infowars</strong></div>
+<p>PO Box 19549, Austin, TX 78760</p>
+</div></div><aside class="footer-legal"><p><strong>* These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure or prevent any disease. If you are pregnant, nursing, taking medication, or have a medical condition, consult your physician before using this product.</strong></p>
+<p>Supplement &amp; Food Product Disclaimer: Infowars thanks you for your support of the operation. As always, we offer what we have researched and believe to be the highest quality selection of products for you and your family that have been developed along with the advisory of top doctors and experts. It is important to do your own research and consult with a qualified healthcare provider or doctor to decide what is best for you. We also know that everyone's bodies are different, and it is essential to consult with a qualified health care professional before taking products offered on this website. The information on this website is not intended to replace a one-on-one relationship with a doctor or qualified health care professional and is not intended as medical advice. And by purchasing any item from this store, you agree to these terms and conditions as well as understand that by using these products you are agreeing to abide by this contract. Infowars Life is not held responsible for the irresponsible use of this product.</p>
+<p><strong>Free Shipping Disclaimer</strong>: Free shipping applies only to orders shipped to an address in the United States. Some exclusions or additional handling charges may apply.</p>
+<p>* We do not moderate the comments consumers make about our products outside of our third party partner Power Reviews, which screens them for authenticity and other factors. We appreciate the feedback and share some typical comments here.</p></aside>
+            <small class="copyright">Copyright © 2017 Alex Jones, Infowars Store. All rights reserved.</small>
+    
+</footer>
+    </div>
+        
+
+<!--{BRONTO_CART_RECOVERY_ae20cd2ff8a11d4a66d6d255524cf651}-->
+<script data-name="__br_tm" type="text/javascript">
+  var _bsw = _bsw || [];
+  _bsw.push(['_bswId', '1f20b9ed52e84e303483a8ae5ddd4c813669b7cac00b3cef45397c103b6887d6']);
+  (function() {
+    var bsw = document.createElement('script'); bsw.type = 'text/javascript'; bsw.async = true;
+    bsw.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'js.bronto.com/c/6fevclbdycvu89m28wj7nl10p0nsoml1i40e54csazxy8whtsp/1f20b9ed52e84e303483a8ae5ddd4c813669b7cac00b3cef45397c103b6887d6/s/b.min.js';
+    var t = document.getElementsByTagName('script')[0]; t.parentNode.insertBefore(bsw, t);
+  })();
+</script>
+<!--/{BRONTO_CART_RECOVERY_ae20cd2ff8a11d4a66d6d255524cf651}-->
+
+<script type="text/javascript">
+if (document.addEventListener) {
+  document.addEventListener('bronto:popup-submitted', function(e) {
+    new Ajax.Request('https://www.infowarsstore.com/btnewsletter/index/submit/', {
+      method: 'post',
+      parameters: { emailAddress: e.detail.email }
+    });
+  }, false);
+}
+</script>
+
+
+<script type="text/javascript" src="//p.bm23.com/bta.js"></script>
+<script type="text/javascript">
+    //<![CDATA[
+    var bta = new __bta('483ef5d89f3c193a1e22b215a1dd6098');
+    //]]>
+</script>
+
+
+<!-- AddShoppers Widget JS -->
+<script>
+var js = document.createElement('script'); js.async = true; js.id = 'AddShoppers';
+js.src = ('https:' == document.location.protocol ? 'https://shop.pe/widget/' : 'http://cdn.shop.pe/widget/') + 'widget_async.js#5605a479a3876471d9af67a2';
+document.getElementsByTagName("head")[0].appendChild(js);
+</script>
+<!-- End AddSHoppers Widget JS -->
+<!-- Start of Zendesk Widget script -->
+<script>/*<![CDATA[*/window.zEmbed||function(e,t){var n,o,d,i,s,a=[],r=document.createElement("iframe");window.zEmbed=function(){a.push(arguments)},window.zE=window.zE||window.zEmbed,r.src="javascript:false",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="display: none",d=document.getElementsByTagName("script"),d=d[d.length-1],d.parentNode.insertBefore(r,d),i=r.contentWindow,s=i.document;try{o=s}catch(c){n=document.domain,r.src='javascript:var d=document.open();d.domain="'+n+'";void(0);',o=s}o.open()._l=function(){var o=this.createElement("script");n&&(this.domain=n),o.id="js-iframe-async",o.src=e,this.t=+new Date,this.zendeskHost=t,this.zEQueue=a,this.body.appendChild(o)},o.write('<body onload="document._l();">'),o.close()}("https://assets.zendesk.com/embeddable_framework/main.js","infowars.zendesk.com");/*]]>*/</script>
+<!-- End of Zendesk Widget script --><!--  Quantcast Tag -->
+<script>
+	var ezt = ezt ||[];
+	(function(){
+	   var elem = document.createElement('script');
+
+	   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-NVp4VYN8SXPdY";
+	   elem.async = true;
+	   elem.type = "text/javascript";
+
+	   var scpt = document.getElementsByTagName('script')[0];
+
+	   scpt.parentNode.insertBefore(elem,scpt);
+	}());
+
+	ezt.push({qacct: 'p-NVp4VYN8SXPdY',
+	   orderid: '',
+	   revenue: '' 
+	});
+</script>
+
+<noscript>
+	<img src="//pixel.quantserve.com/pixel/p-NVp4VYN8SXPdY.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast Tag --><!-- BEGIN: Google Trusted Stores -->
+<script type="text/javascript">
+  var gts = gts || [];
+
+  gts.push(["id", "716602"]);
+  gts.push(["badge_position", "BOTTOM_RIGHT"]);
+  gts.push(["locale", "EN"]);
+    gts.push(["google_base_subaccount_id", "110257689"]);
+
+  (function() {
+    var gts = document.createElement("script");
+    gts.type = "text/javascript";
+    gts.async = true;
+    gts.src = "https://www.googlecommerce.com/trustedstores/api/js";
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(gts, s);
+  })();
+</script>
+<!-- END: Google Trusted Stores --><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4f1329c835","applicationID":"26521608","transactionName":"NlIEZksFXBBRWxVQCg8YJ1FNDV0NH0gAXgACVgVaXEtABkFNBEoRTkcUXVoBQRA=","queueTime":0,"applicationTime":160,"atts":"GhUTEAMfT08SWUMDHhxK","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

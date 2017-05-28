@@ -1,0 +1,29 @@
+# infowarsstore.com
+Sitemap: http://www.infowarsstore.com/sitemap.xml
+
+User-Agent: *
+Disallow: /admin
+Disallow: /app/
+Disallow: /code/
+Disallow: /downloader/
+Disallow: /errors/
+Disallow: /includes/
+Disallow: /lib/
+Disallow: /media/
+Allow: /media/catalog/
+Allow: /media/wysiwyg/
+Disallow: /pkginfo/
+Disallow: /shell/
+Disallow: /var/
+Disallow: /sendfriend/
+Disallow: /customer/
+Disallow: /productalert/
+
+
+# Query Strings
+Disallow: /*?*color=*
+Disallow: /*?*price=*
+Disallow: /*?*limit=*
+Disallow: /*?*dir=*
+Disallow: /*?*order=*
+Disallow: /*?*cat=*

@@ -1,0 +1,907 @@
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://kinfolk.com/xmlrpc.php">
+
+
+	<title>Connecting the Lots &#8211; Kinfolk</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="City planners may shape streets and devise green spaces, but building community really starts where the pavement ends."/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="https://kinfolk.com/connecting-the-lots/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:description" content="City planners may shape streets and devise green spaces, but building community really starts where the pavement ends." />
+<meta property="og:url" content="https://kinfolk.com/connecting-the-lots/" />
+<meta property="og:site_name" content="Kinfolk" />
+<meta property="article:tag" content="Architecture" />
+<meta property="article:tag" content="community" />
+<meta property="article:tag" content="Culture" />
+<meta property="article:tag" content="Design" />
+<meta property="article:tag" content="Neighborhood" />
+<meta property="article:tag" content="participatory design" />
+<meta property="article:tag" content="TEXT" />
+<meta property="article:section" content="Design" />
+<meta property="article:published_time" content="2015-11-24T16:08:08+02:00" />
+<meta property="article:modified_time" content="2016-11-17T12:20:48+02:00" />
+<meta property="og:updated_time" content="2016-11-17T12:20:48+02:00" />
+<meta property="og:image" content="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_ft.jpg" />
+<meta property="og:image:width" content="1421" />
+<meta property="og:image:height" content="1137" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="City planners may shape streets and devise green spaces, but building community really starts where the pavement ends." />
+<meta name="twitter:image" content="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_ft.jpg" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Kinfolk &raquo; Connecting the Lots Comments Feed" href="https://kinfolk.com/connecting-the-lots/feed/" />
+<link rel='stylesheet' id='kf-style-css'  href='https://kinfolk.com/wp-content/themes/kinfolk2016/assets/css/main.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-content/plugins/woocommerce-subscriptions-gifting-master/js/wcs-gifting.js?ver=4.6.6'></script>
+<link rel='https://api.w.org/' href='https://kinfolk.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kinfolk.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://kinfolk.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.6" />
+<meta name="generator" content="WooCommerce 2.6.8" />
+<link rel='shortlink' href='https://kinfolk.com/?p=308' />
+<link rel="alternate" type="application/json+oembed" href="https://kinfolk.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkinfolk.com%2Fconnecting-the-lots%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://kinfolk.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkinfolk.com%2Fconnecting-the-lots%2F&#038;format=xml" />
+<!-- SLP Custom CSS -->
+<style type="text/css">
+div#map.slp_map {
+width:100%;
+height:480px;
+}
+div#slp_tagline {
+width:100%;
+}
+</style>
+
+<link rel="icon" href="https://kinfolk.com/wp-content/uploads/2016/09/cropped-apple-touch-icon-50x50.png" sizes="32x32" />
+<link rel="icon" href="https://kinfolk.com/wp-content/uploads/2016/09/cropped-apple-touch-icon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://kinfolk.com/wp-content/uploads/2016/09/cropped-apple-touch-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://kinfolk.com/wp-content/uploads/2016/09/cropped-apple-touch-icon-300x300.png" />
+
+	<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-41955240-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</head>
+
+<body class="single single-post postid-308 single-format-standard">
+
+	
+	<!-- Woocommerce mini cart -->
+	<div class="mini-cart">
+		<div class="container">
+			<div class="row">
+				<div class="columns small-12">
+					<div class="mini-cart__wrapper">
+						
+
+<ul class="cart_list product_list_widget ">
+
+	
+		<li class="empty">No products in the cart.</li>
+
+	
+</ul><!-- end product list -->
+
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="hide"><svg xmlns="http://www.w3.org/2000/svg" style="width:0; height:0; visibility:hidden;">
+    <symbol id="cart" viewBox="0 0 22 19">
+      <title>cart</title><rect class="cls-1" x="1" y="5" width="20" height="13"/><polyline class="cls-1" points="5 7 5 1 17 1 17 7"/>
+    </symbol>
+    <symbol id="chevron-down" viewBox="0 0 14.06 8.32">
+      <title>chevron-down</title><polygon class="cls-1" points="7.03 8.32 0 1.26 1.26 0 7.03 5.79 12.8 0 14.06 1.26 7.03 8.32"/>
+    </symbol>
+    <symbol id="chevron-left" viewBox="0 0 8.3 14.1">
+        <polygon class="st0" points="7,0 8.3,1.3 2.5,7.1 8.3,12.8 7,14.1 0,7.1 "/> 
+    </symbol>
+    <symbol id="chevron-right" viewBox="0 0 8.3 14.1">
+        <polygon class="st0" points="1.3,14.1 0,12.8 5.8,7 0,1.3 1.3,0 8.3,7 "/> 
+    </symbol>
+    <symbol id="close-disc" viewBox="0 0 22.66 22.66">
+      <title>close-disc</title><line class="cls-1" x1="6.89" y1="15.77" x2="15.77" y2="6.89"/><line class="cls-1" x1="6.89" y1="6.89" x2="15.77" y2="15.77"/><circle class="cls-1" cx="11.33" cy="11.33" r="10.83"/>
+    </symbol>
+    <symbol id="close" viewBox="0 0 18.4 18.4">
+        <g> <rect x="-2.8" y="8.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.8077 9.1924)" class="st0" width="24" height="2"/> <rect x="8.2" y="-2.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.8077 9.1924)" class="st0" width="2" height="24"/> </g> 
+    </symbol>
+    <symbol id="expand" viewBox="0 0 44 44">
+        <g> <rect class="st0" width="44" height="44"/> <polygon class="st1" points="34,21 33,21 33,11 23,11 23,10 34,10 	"/> <polygon class="st1" points="19,35 9,35 9,25 10,25 10,34 19,34 	"/> </g> 
+    </symbol>
+    <symbol id="facebook" viewBox="0 0 9.6 17.7">
+        <path class="st0" d="M9.5,0.1v3.1c0,0-2,0-2.3,0C6.9,3.1,6.5,3.4,6.5,4s0,1.8,0,1.8h3.1L9.3,8.9H6.4v8.8H2.3V8.9H0V5.8h2.1V3.5
+	c0,0,0-1.2,0.5-1.9c0.5-0.7,1.1-1.3,2.5-1.5C6.4-0.1,9.5,0.1,9.5,0.1"/> 
+    </symbol>
+    <symbol id="instagram" viewBox="0 0 16.6 16.8">
+        <g> <path class="st0" d="M8.4,4.6c0.8,0,1.7,0.2,2.3,0.7h5.9V4.2c0-2.3-1.9-4.2-4.2-4.2H4.2C1.9,0,0,1.9,0,4.2v1.2h6.1
+		C6.8,5,7.6,4.6,8.4,4.6z M11.8,2.6c0-0.2,0.2-0.5,0.5-0.5h1.4c0.2,0,0.5,0.2,0.5,0.5V4c0,0.2-0.2,0.5-0.5,0.5h-1.4
+		c-0.2,0-0.5-0.2-0.5-0.5V2.6z M12.4,8.6c0,2.1-1.8,3.9-3.9,3.9s-3.9-1.8-3.9-3.9c0-0.6,0.1-1.2,0.4-1.7H0v5.7
+		c0,2.3,1.9,4.2,4.2,4.2h8.3c2.3,0,4.2-1.9,4.2-4.2V6.9H12C12.2,7.5,12.4,8,12.4,8.6z"/> </g> 
+    </symbol>
+    <symbol id="pinterest" viewBox="0 0 18 17.8">
+        <path class="st0" d="M8.9,0C4,0,0,4,0,8.9c0,3.7,2.1,6.8,5.4,8.2c0-0.6,0-1.4,0.1-2c0.1-0.7,1.2-4.9,1.2-4.9S6.4,9.6,6.4,8.8
+	c0-1.3,0.7-2.3,1.7-2.3c0.8,0,1.2,0.6,1.2,1.3c0,0.8-0.5,2-0.8,3.2c-0.2,1,0.5,1.7,1.4,1.7c1.7,0,2.9-2.1,2.9-4.8
+	c0-1.9-1.3-3.4-3.7-3.4c-2.7,0-4.4,2-4.4,4.3c0,0.8,0.2,1.3,0.6,1.8c0.1,0.2,0.2,0.2,0.1,0.5l-0.1,0.7C5.2,12,5,12.1,4.8,12
+	C3.6,11.5,3,10.1,3,8.6C3,6.1,5.1,3,9.4,3C12.8,3,15,5.5,15,8.1c0,3.4-1.9,6.1-4.8,6.1c-1,0-1.9-0.5-2.1-1.1c0,0-0.5,2-0.6,2.5
+	c-0.2,0.7-0.6,1.4-1,1.9c0.8,0.2,1.7,0.4,2.5,0.4c4.9,0,8.9-4,8.9-8.9C17.8,4,13.8,0,8.9,0L8.9,0z"/> 
+    </symbol>
+    <symbol id="play" viewBox="0 0 50.8 50.8">
+        <g> <polygon class="st0" points="18.4,16.6 18.4,34.2 34.7,25.4 	"/> <path class="st1" d="M25.4,50.8C11.4,50.8,0,39.4,0,25.4C0,11.4,11.4,0,25.4,0c14,0,25.4,11.4,25.4,25.4
+		C50.8,39.4,39.4,50.8,25.4,50.8z M25.4,0.9c-13.5,0-24.5,11-24.5,24.5s11,24.5,24.5,24.5c13.5,0,24.5-11,24.5-24.5
+		S38.9,0.9,25.4,0.9z"/> </g> 
+    </symbol>
+    <symbol id="search" viewBox="0 0 13.3 14">
+        <path class="st0" d="M13.1,12.7l-3-3c0.9-1,1.5-2.4,1.5-3.9C11.6,2.6,9,0,5.8,0C2.6,0,0,2.6,0,5.8c0,3.2,2.6,5.8,5.8,5.8
+	c1.1,0,2.2-0.3,3.1-0.9l3,3.1c0.2,0.2,0.4,0.2,0.6,0.2c0.2,0,0.4-0.1,0.6-0.2C13.3,13.4,13.3,12.9,13.1,12.7L13.1,12.7z M1.6,5.8
+	c0-2.3,1.9-4.2,4.2-4.2c2.3,0,4.2,1.9,4.2,4.2C10,8.1,8.1,10,5.8,10C3.5,10,1.6,8.1,1.6,5.8z"/> 
+    </symbol>
+    <symbol id="twitter" viewBox="0 0 19.1 15.1">
+        <path class="st0" d="M19.1,1.8c-0.7,0.4-1.4,0.5-2.3,0.6c0.8-0.5,1.4-1.2,1.7-2.1c-0.7,0.5-1.5,0.7-2.5,1C15.3,0.5,14.3,0,13.2,0
+	c-2.1,0-3.9,1.7-3.9,3.8c0,0.4,0,0.6,0.1,0.8C6.2,4.5,3.3,3,1.3,0.6C1,1.2,0.8,1.8,0.8,2.5c0,1.3,0.7,2.5,1.8,3.2
+	C2,5.7,1.4,5.5,0.8,5.2l0,0c0,1.9,1.3,3.4,3.1,3.8C3.6,9.2,3.2,9.2,2.9,9.2c-0.2,0-0.5,0-0.7-0.1c0.5,1.5,1.9,2.6,3.7,2.6
+	c-1.3,1.1-3,1.7-4.9,1.7c-0.4,0-0.6,0-1,0c1.8,1.1,3.8,1.8,5.9,1.8C13.1,15.1,17,9.3,17,4.2V3.7C18,3.2,18.7,2.6,19.1,1.8L19.1,1.8z
+	"/> 
+    </symbol></svg></div>
+
+	
+	<header class="l-header l-header--fixed [ push ]">
+		<div class="container">
+			<div class="row">
+				<div class="columns small-12">
+
+					<div class="l-header__inner">
+						<div class="l-header__burger [ menu-btn ]" data-pushy-dir="left">
+							<span></span>
+						</div>
+
+						<div class="l-header__state-1">
+							
+            <div itemscope itemtype="http://schema.org/Organization" class="l-header__logo">
+                <a itemprop="url" href="https://kinfolk.com/"><img itemprop="logo" src="https://kinfolk.com/wp-content/themes/kinfolk2016/assets/img/logo.svg" alt="Kinfolk"/></a>
+            </div>
+
+            <ul class="l-header__icons">
+                                <li>
+                    <a class="l-header__cart hidden" href="https://kinfolk.com/cart/"><svg viewBox="0 0 100 100" role="presentation" class="mini-cart-icon icon--cart">:<use xlink:href="#cart"></use></svg><span>(0)</span></a>                </li>
+                                <li>
+                    <a class="l-header__subscribe" href="/shop">Shop</a>
+                </li>
+                <li>
+                    <div class="l-header__search [ js-overlay-trigger ]">
+                        <svg viewBox="0 0 100 100" role="presentation" class="icon--search">:<use xlink:href="#search"></use></svg>
+                    </div>
+                </li>
+            </ul>
+
+            						</div>
+
+						<div class="l-header__state-2">
+							
+            <div class="float--left l-header__title">
+                Reading: <span>Connecting the Lots</span>
+            </div>
+            <div class="float--right">
+                <ul class="c-social c-social--share"><li class="c-social__network"><a href="https://twitter.com/intent/tweet?text=Connecting the Lots %7C&url=https://kinfolk.com/connecting-the-lots/&via=kinfolkmag" target="_blank">twitter</a></li><li class="c-social__network"><a href="http://www.facebook.com/sharer/sharer.php?u=https://kinfolk.com/connecting-the-lots/" target="_blank">facebook</a></li><li class="c-social__network"><a href="http://pinterest.com/pin/create/button/?url=https://kinfolk.com/connecting-the-lots/&description=Kinfolk %7C Connecting the Lots&media=https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_ft-1024x819.jpg" target="_blank">pinterest</a></li></ul>            </div>
+
+            						</div>
+					</div>
+
+				</div>
+			</div>
+		</div>
+
+		<div class="container c-progress__container">
+			<div class="row column">
+				<div class="c-progress">
+					<div class="c-progress__line"></div>
+				</div>
+			</div>
+		</div>
+	</header>
+
+	
+	            <div class="c-overlay">
+                <div class="c-overlay__close [ js-overlay-trigger ]"><svg viewBox="0 0 100 100" role="presentation" class="icon--close">:<use xlink:href="#close"></use></svg></div>
+                <div class="table [ align--center ]">
+                    <div class="table__cell">
+                        <form role="search" method="get" id="searchform" class="searchform" action="https://kinfolk.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>                        <h5 class="c-list__title c-list--large">Browse Categories</h5>
+                        <ul class="c-list c-list--large">
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/design/">Design</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/fashion/">Fashion</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/interiors/">Interiors</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/arts-culture/">Arts & Culture</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/food/">Food</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/city-guides/">City Guides</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/">All Stories</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+
+            
+	<nav class="l-nav [ pushy pushy-left ]">
+		<div class="site-close [ pushy-link ]"><svg viewBox="0 0 100 100" role="presentation" class="icon--close">:<use xlink:href="#close"></use></svg></div>
+
+				<ul id="menu-categories-menu" class="menu"><li id="menu-item-158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-158"><a href="https://kinfolk.com/stories/design/">Design</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2519"><a href="https://kinfolk.com/stories/fashion/">Fashion</a></li>
+<li id="menu-item-2521" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2521"><a href="https://kinfolk.com/stories/interiors/">Interiors</a></li>
+<li id="menu-item-2518" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-2518"><a href="https://kinfolk.com/stories/arts-culture/">Arts &#038; Culture</a></li>
+<li id="menu-item-2520" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2520"><a href="https://kinfolk.com/stories/food/">Food</a></li>
+<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://kinfolk.com/city-guides/">City Guides</a></li>
+<li id="menu-item-145096" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-145096"><a href="https://kinfolk.com/stories/">All Stories</a></li>
+</ul>
+		<ul id="menu-main-menu" class="menu"><li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a href="https://kinfolk.com/shop/">Shop</a></li>
+<li id="menu-item-163724" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-163724"><a href="https://kinfolk.com/stories/issue-24/">Current Issue</a></li>
+<li id="menu-item-1582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1582"><a href="https://kinfolk.com/info/about/">Info</a></li>
+<li id="menu-item-2815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2815"><a href="https://kinfolk.com/gallery/">Gallery</a></li>
+</ul>
+		
+					<ul>
+				<li><a href="https://kinfolk.com/my-account/" title="Log In / Register">Log In / Register</a></li>
+				<li><a href="/product-category/subscriptions">Subscribe</a></li>
+			</ul>
+				<ul>
+			<li><a href="#" class="js-menu-newsletter">Newsletter &ndash; Sign Up</a>
+				
+            <form action="//kinfolk.us2.list-manage.com/subscribe/post?u=22754bb51e11b3de6912e768c&amp;id=2b97ca3731" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" novalidate="true" class="c-newsletter">
+                <div id="mc_embed_signup_scroll">
+
+                    <div class="c-newsletter__group">
+                        <label for="mce-EMAIL" class="c-newsletter__label">Newsletter Signup</label>
+                        <div class="c-newsletter__input-wrap">
+                            <input type="email" value="" name="EMAIL" class="c-newsletter__input" placeholder="Email Address" id="mce-EMAIL" aria-required="true">
+                            <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="c-newsletter__submit">
+                        </div>
+                    </div>
+                    <div id="mce-responses" class="clear">
+                        <div class="response" id="mce-error-response" style="display:none"></div>
+                        <div class="response" id="mce-success-response" style="display:none"></div>
+                    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_22754bb51e11b3de6912e768c_2b97ca3731" tabindex="-1" value=""></div>
+                </div>
+            </form>
+
+            			</li>
+		</ul>
+		<ul class="c-social c-social--follow"><li class="c-social__network"><a href="https://uk.pinterest.com/kinfolkmagazine" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--pinterest">:<use xlink:href="#pinterest"></use></svg></a></li><li class="c-social__network"><a href="https://www.facebook.com/kinfolkmag" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--facebook">:<use xlink:href="#facebook"></use></svg></a></li><li class="c-social__network"><a href="https://twitter.com/kinfolkmag" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--twitter">:<use xlink:href="#twitter"></use></svg></a></li><li class="c-social__network"><a href="http://instagram.com/kinfolk" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--instagram">:<use xlink:href="#instagram"></use></svg></a></li></ul>		<div class="pushy__bottom">
+			&copy; Kinfolk 2015		</div>
+	</nav>
+
+	
+    <div class="site-overlay"></div>
+
+    <div id="container">
+    	<div class="container">
+    		<main class="l-main">
+<form method="POST" id="paywall-form">
+	<input type="hidden" value="c1fa3191e1034e54ce12b9f418b9e984" name="paywall_user">
+	<input type="hidden" value="169" name="hfulsd" id="shdhfsi">
+	<input type="hidden" value="308" name="hfulfssd" id="kiyne">
+
+<article class="post-308 post type-post status-publish format-standard has-post-thumbnail hentry category-design tag-architecture tag-community tag-culture tag-design tag-neighborhood tag-participatory-design tag-text">
+
+	<!-- Film Post Content -->
+	
+
+	<header class="row [ align--left ] page__header">
+		<div class="columns small-10 medium-8 large-6 ">
+			<h1 class="page__title page__title--padding ">Connecting the Lots</h1>
+		</div>
+	</header>
+
+		<div class="row">
+										<div class="column small-12 xlarge-6 [ border--right--xlarge ] [ match ]">
+						<div class="c-gallery c-gallery--slideshow c-gallery--padding">
+														
+                <figure class="c-gallery__image">
+                    <div class="c-gallery__image__wrap">
+                        
+                            <img src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_01-50x59.jpg" data-src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_01-865x1024.jpg" class="lazy lazyload" alt="kinfolk_vol18_connectingtelots_01">
+
+                                                    <a href="#" class="c-gallery__expand" data-index="0"></a>
+                    </div>
+                                    </figure>
+
+            
+                <figure class="c-gallery__image">
+                    <div class="c-gallery__image__wrap">
+                        
+                            <img src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_05-50x38.jpg" data-src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_05-1024x776.jpg" class="lazy lazyload" alt="kinfolk_vol18_connectingtelots_05">
+
+                                                    <a href="#" class="c-gallery__expand" data-index="1"></a>
+                    </div>
+                                    </figure>
+
+            
+                <figure class="c-gallery__image">
+                    <div class="c-gallery__image__wrap">
+                        
+                            <img src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_02-50x38.jpg" data-src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_02-1024x776.jpg" class="lazy lazyload" alt="kinfolk_vol18_connectingtelots_02">
+
+                                                    <a href="#" class="c-gallery__expand" data-index="2"></a>
+                    </div>
+                                    </figure>
+
+            													</div>
+					</div>
+					
+					<div class="column small-12 medium-9 xlarge-4  [ match ] ">
+						<div class="single-post__text">
+
+															<p class="c-lead">City planners may shape streets and devise green spaces, but building community really starts where the pavement ends. Participatory design is a diplomatically driven method of development that listens to both stakeholders and local voices to create a neighborhood where stories and streetscapes are shared.</p>
+																							<p>On a larger scale, New York City is in the process of redesigning <a href="http://www.nycgovparks.org/parks/flushing-meadows-corona-park">Flushing Meadows Corona Park</a>—897 acres of open space in the borough of Queens. Originally built for the 1939-1940 World’s Fair, seven million people now annually visit the park despite the fact that it hasn’t been seriously updated for the past 50 years. To find out how to best bring the park into the 21st century, the <a href="http://designtrust.org/">Design Trust for Public Space</a>, a nonprofit advocacy group, has been engaging in participatory design initiatives with the surrounding communities. <a href="http://samholler.com/">Sam Holleran</a>, a participatory design fellow at Design Trust, has been working on visual materials to aid the process and has designed the curriculum for community learning sessions. He thinks that participatory design, when implemented at the right time and in a meaningful way, unites people and builds better results for the end users. “Involving community is not just about taking an approach that brings in equity and social justice,” he says. “It’s about making spaces that are durable. There’s less objection to the design and less revision.”</p>
+<p>Some of the more apparent benefits of participatory design can be seen in master-planned neighborhoods. A 2008 study from California Polytechnic State University researcher Esther Valle showed that residents living in places that were built using participatory design methods felt a stronger sense of community and a deeper connection with their neighborhood. The residents of Bernal Gateway Apartments in San Francisco and Oak Court Apartments in Palo Alto, two enclaves built using participatory methods, were interviewed about their satisfaction with their living environments. The study found that they use their neighborhoods’ communal meeting spaces for socializing and feel more comfortable asking their neighbors for a favor, such as borrowing a cup of sugar, than residents of New Urbanist neighborhoods, which are built using another contemporary design method that promotes walkable environments but without participatory design efforts. The study concluded that while it’s difficult to unequivocally say that either method alone is a primary contributor to creating community, involvement with the design creates attachment to a place, which in turn brings a stronger sense of community. Because people are encouraged to work together during the planning process, it sows the seed for interaction afterward.</p>
+<p>Participatory budgeting is another strategy that builds community. This concept sets aside part of a civic budget and allows citizens to vote by committee on how to use it. In open forums, local leaders and their constituents meet, propose projects and decide what should get funded. “Participatory budgeting processes always focus on in-person meetings that bring people into rooms with their neighbors,” says Josh Lerner, executive director of the<a href="http://www.participatorybudgeting.org/"> Participatory Budgeting Project</a>, a nonprofit that empowers people to collectively decide how to spend public money. “By creating new conversations, the community comes together around shared needs. The best way to understand what a community needs is to ask them, and the best way to meet those needs is to give the community real power to make the solutions happen through direct control over a budget.”</p>
+<p>In Vallejo, California, a $3.2 million participatory budgeting allotment rallied 4,000 people around community gardens, new streetlights, road repairs, park improvements and senior citizen programs, among others. Prior to the process, city council members thought the residents wanted more police and public safety. But after engaging with the community, they found that while safety was a concern, it wasn’t the only thing. People voiced their desire for parks, saw what needed to be done to get them and took action. “Some of the gardens have turned blighted, unused lots into vibrant gathering spaces in residential neighborhoods, while other green spaces have paved the way for new education and training programs in public schools and churches,” says Ginny Browne, West Coast Project Manager at the Participatory Budgeting Project. The new gardens provide a much-needed “third place” for residents to enjoy and nurture. With home referred to as the “first place” and work as the “second place,” third places are important social areas for spontaneous interactions, such as coffee shops, bars and parks.</p>
+<p>In addition to jump-starting civic projects, participatory budgeting also builds stronger trust between the city and citizens. “It was a time when Vallejo’s residents’ trust in city government was at an all-time low, and residents themselves were deeply divided over the reasons for the municipal failure,” Browne says. “Through participatory budgeting, residents were able to sit across the table from city staff to talk through project ideas, learn about costs and feasibility and share their own knowledge about what was and wasn’t working in their communities. We saw learning on both sides of the table, and both residents and city staff came away with a new sense of the value of collaboration.” Coming together made the planning process transparent to the community, taught them how to get their voices heard and helped them arrive at a shared vision for what their neighborhoods could become.</p>
+<p>In his work with The Better Block, Roberts travels the world to share what he has discovered through speaking with people about their worries concerning a diminishing sense of neighborhood kinship and togetherness. What he’s learned is that because of the fast pace of modern living and the detachment from communal social structures, people have slowly drifted apart from each other and are searching for ways to find their way back by working together in their neighborhoods. “There’s an overall sense that we’re not engaged as a community,” Roberts says. “There’s a void, and that void comes back to the fact that we used to do things together, craft our places together and look after each other, and we&#8217;re not doing that anymore. People feel like they’re missing their tribe because of this.”</p>
+<p>Perhaps the way to reverse the years of disbanding is to take an active role in building and designing communities that reflect our shared desires, whether it’s a park, streetscape or neighborhood that promotes a connected, slower life. Think of the difference between knitting a scarf versus buying one in a shop: the former is a point of pride you’ll take care of to ensure it’ll last a lifetime, whereas the latter will never earn the same regard. We should be living in neighborhoods we’re proud of contributing to and reflect who we are. We should want to cherish them and pass them down to the next generation like a well-loved heirloom. The way to maintain that legacy—or to even build one from scratch—is not through having one voice heard; it’s through a chorus of community involvement.</p>
+<p>Gazing at a city from 1,000 feet above the ground reveals a fascinating—and complex—narrative of modern-day urbanism. Based on the shape of streets, the layout of houses, their density and the dominant colors, a city’s character comes into focus—as do the lives of the people who live there.</p>
+<p>Take these aerial photographs of Phoenix, Arizona, as an example. Ambitious residential developments such as Arrowhead Lakes in the Glendale neighborhood are built around a sea of blue water. Lush green lawns lay adjacent to arid desert. Highway off-ramps lead to nowhere and paved street grids eagerly await neighborhoods to sprout up around them. While the lined-up houses each have their own postage stamp yards, there’s not a park to be seen, nor a café or corner pub. These omissions reflect the actions of planners and developers who build cities based on speculation, not people. While the signs of civilization are there, the citizens themselves are noticeably absent, and this lack of interaction diminishes the sense of community. And this is all by design.</p>
+														
+
+													</div>
+					</div>
+
+					<div class="column small-12 medium-3 xlarge-2 border--left--medium [ match ] ">
+													<div class="show--medium c-credits--helper">
+								            <ul class="c-credits">
+                                    <li><div>Words:</div>Diana Budds</li>
+                                    <li><div>Photography:</div>Justin Fantl</li>
+                            </ul>
+            							</div>
+																	<div class="c-footnote">
+							<div class="show--medium">
+								
+        
+        							</div>
+
+															<p class="c-footnote__quote">“As we consider what makes a place desirable, it boils down to championing people”</p>
+													</div>
+					
+					
+					</div>
+
+				
+			</div>
+
+			
+			
+		<div class="row">
+									<div class="columns small-12">
+						<div class="c-gallery c-gallery--padding">
+							
+                <figure class="c-gallery__image">
+                    <div class="c-gallery__image__wrap">
+                        
+                            <img src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_03-50x19.jpg" data-src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_03-1600x606.jpg" class="lazy lazyload" alt="kinfolk_vol18_connectingtelots_03">
+
+                                                    <a href="#" class="c-gallery__expand" data-index="3"></a>
+                    </div>
+                                    </figure>
+
+            						</div>
+					</div>
+				
+				
+			</div>
+
+			
+			
+		<div class="row">
+										<div class="column small-12 xlarge-6 [ border--right--xlarge ] [ match ]">
+						<div class="c-gallery c-gallery--slideshow c-gallery--padding">
+														
+                <figure class="c-gallery__image">
+                    <div class="c-gallery__image__wrap">
+                        
+                            <img src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_06-50x30.jpg" data-src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_06-1024x606.jpg" class="lazy lazyload" alt="kinfolk_vol18_connectingtelots_06">
+
+                                                    <a href="#" class="c-gallery__expand" data-index="4"></a>
+                    </div>
+                                    </figure>
+
+            
+                <figure class="c-gallery__image">
+                    <div class="c-gallery__image__wrap">
+                        
+                            <img src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_04-50x19.jpg" data-src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_04-1024x388.jpg" class="lazy lazyload" alt="kinfolk_vol18_connectingtelots_04">
+
+                                                    <a href="#" class="c-gallery__expand" data-index="5"></a>
+                    </div>
+                                    </figure>
+
+            													</div>
+					</div>
+					
+					<div class="column small-12 medium-9 xlarge-4  [ match ] ">
+						<div class="single-post__text">
+
+																						<p>The United States had a major growth spurt in the 20th century when policymakers and developers formed cities with industry and efficiency at the heart of decision making: It was about expanding the highway system, getting cars from point A to B, building parking spaces for those vehicles and designing sprawling intersections for them to safely cross paths. Architects proposed “visionary” projects that, on paper, would improve urban life. However, the polar opposite occurred as they based their objectives on assumptions of what people required, not what communities desired.</p>
+<p>As we consider what makes a place desirable, it boils down to championing people. The good news is that decades of top-down planning have given way to bottom-up innovation as the community is now welcomed at the table. Much of this formal community involvement is called <em>participatory design</em>, an umbrella term for workshops, activities, surveys, visioning sessions and interviews that call upon experiences and input from all stakeholders in a project—including the government, neighborhood members, developers and designers—not just the traditional decision makers at the top. The hope was that involving the community affected by a project would yield a stronger design.</p>
+<p>Also called cooperative design or co-design, the participatory concept originated in Scandinavia and made its way to the United States in the 1960s. During this decade, pioneering activists like the great Jane Jacobs issued a rallying cry for planners to listen to people, take the pulse of a successful neighborhood and try to reverse engineer it for new initiatives instead of imposing predetermined master plans. In fact, it’s thanks to Jacobs that New York City did not demolish parts of the West Village and SoHo, two of the city’s most iconic enclaves, in favor of an expressway: While it would have supposedly improved traffic flow from Brooklyn to the Holland Tunnel, construction of the four-lane freeway would have razed <a href="http://www.nycgovparks.org/parks/washington-square-park">Washington Square Park</a>, which is a beloved public space and the heart of the community to this day. Her neighborhood-saving endeavors illustrate the root of the issue: As cities hold the purse strings for capital projects, rezoning and permitting development, bad design fundamentally boils down to bad policy.</p>
+<p>“Many of our policies are built out of fear,” says Jason Roberts, co-founder of <a href="http://teambetterblock.com/">The Better Block</a>. His organization leads grassroots exercises on ways the community can improve their neighborhoods and also consults with local governments on how to incorporate citizen-led design into the bureaucratic process. “Rules are typically put in place because of the fear that something horrendous could happen—which could be valid, I don’t want to minimize that—but once you start constructing your community based on fear, your byproduct will be these structures that are inhumane,” Roberts says. A classic example of this notion of “hostile” or “defensive” architecture is park benches that people can’t lie on: Spacing the seats a certain way is a subtle modification intended to prevent homeless people from sleeping on them, but it also restricts how the seats are used by the rest of the population. “Your options are fear or love,” he says. “When you look at an environment built on love, you get an entirely different ethos: You get an area with a high quality of life that shines and is very human-centered.”</p>
+<p>The Better Block started in 2010 when Roberts gathered a few friends together to stage a pop-up intervention in a section of Oak Cliff, a rougher neighborhood in Dallas, Texas. They banded together and spent an afternoon painting bike lanes, bringing in potted plants and trees, propping up a few café chairs and creating mock-ups of businesses in the empty storefronts. Once they were set up, they used the neighborhood like it was just another vibrant street. The hope was that by showing how easy it was to create a welcoming space in an area that was previously abandoned— thereby altering the psychology of the block—the city would take note and change some of its policies.</p>
+<p>While the project was ephemeral (Roberts likens it to an art project), its effects weren’t. Their act of building an attractive and vibrant city block sparked community. Since then, his team has replicated this process of faux-placemaking across the country. “Time and time again, I see people come out to these projects and say, ‘I just want to work with my hands and do something,’” Roberts says. “Humans are made to move and made to be social. When people do some kind of physical activity together, it benefits the broader community and brings a sense of engagement.”</p>
+<p>&#8211;</p>
+<p><em>This is one of three free promotional stories from Issue Twenty. You’re welcome to choose three more stories from each print issue of Kinfolk to read for free.</em></p>
+<p><em>If you’d like to enjoy unlimited access to our online archive, subscribe <a href="https://kinfolk.com/product-category/subscriptions/" target="_blank">here</a>. If you’re already a subscriber, please <a href="https://kinfolk.com/my-account/" target="_blank">sign in</a>.</em></p>
+														
+								<div class="show-for-small-only">
+																												            <ul class="c-credits">
+                                    <li><div>Words:</div>Diana Budds</li>
+                                    <li><div>Photography:</div>Justin Fantl</li>
+                            </ul>
+            																	</div>
+								<ul class="c-social c-social--share"><li class="c-social__network"><a href="https://twitter.com/intent/tweet?text=Connecting the Lots %7C&url=https://kinfolk.com/connecting-the-lots/&via=kinfolkmag" target="_blank">twitter</a></li><li class="c-social__network"><a href="http://www.facebook.com/sharer/sharer.php?u=https://kinfolk.com/connecting-the-lots/" target="_blank">facebook</a></li><li class="c-social__network"><a href="http://pinterest.com/pin/create/button/?url=https://kinfolk.com/connecting-the-lots/&description=Kinfolk %7C Connecting the Lots&media=https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_ConnectingteLots_ft-1024x819.jpg" target="_blank">pinterest</a></li></ul>								
+            <ul class="c-item__list bare-list mb0">
+                                                            <li><a href="https://kinfolk.com/stories/design/">Design</a></li>
+                                                                                        <li><a href="/stories/issue-18">Issue 18</a></li>
+                            </ul>
+
+        
+							
+
+													</div>
+					</div>
+
+					<div class="column small-12 medium-3 xlarge-2 border--left--medium [ match ] ">
+													<div class="show--medium ">
+															</div>
+											
+					            <div class="table [ js-publish-issue ]">
+                <div class="table__cell table__cell--bottom">
+                    <div class="c-item c-item--vertical c-item--issue">
+
+                        <figure class="c-item__image">
+                            <a href="https://kinfolk.com/shop/issue-18/">
+                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs=" data-src="https://kinfolk.com/wp-content/uploads/2015/11/K18_Cover-350x350.jpg" class="attachment-small size-small lazy lazyload" alt="k18_cover">
+                            </a>
+                        </figure>
+
+                        <div class="c-item__content">
+                            <a href="https://kinfolk.com/shop/issue-18/" class="a--none">
+                                <p>This story is from Kinfolk Issue Eighteen, available here.</p>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        
+					</div>
+
+				
+			</div>
+
+			
+			
+		
+
+	
+            <!-- Root element of PhotoSwipe. Must have class pswp. -->
+            <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
+
+                <!-- Background of PhotoSwipe.
+                     It's a separate element as animating opacity is faster than rgba(). -->
+                <div class="pswp__bg"></div>
+
+                <!-- Slides wrapper with overflow:hidden. -->
+                <div class="pswp__scroll-wrap">
+
+                    <!-- Container that holds slides.
+                        PhotoSwipe keeps only 3 of them in the DOM to save memory.
+                        Don't modify these 3 pswp__item elements, data is added later on. -->
+                    <div class="pswp__container">
+                        <div class="pswp__item"></div>
+                        <div class="pswp__item"></div>
+                        <div class="pswp__item"></div>
+                    </div>
+
+                    <!-- Default (PhotoSwipeUI_Default) interface on top of sliding area. Can be changed. -->
+                    <div class="pswp__ui pswp__ui--hidden">
+
+                        <div class="pswp__top-bar">
+
+                            <!--  Controls are self-explanatory. Order can be changed. -->
+
+                            <div class="pswp__counter"></div>
+
+                            <button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
+
+                            <button class="pswp__button pswp__button--share" title="Share"></button>
+
+                            <button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
+
+                            <button class="pswp__button pswp__button--zoom" title="Zoom in/out"></button>
+
+                            <!-- Preloader demo http://codepen.io/dimsemenov/pen/yyBWoR -->
+                            <!-- element will get class pswp__preloader--active when preloader is running -->
+                            <div class="pswp__preloader">
+                                <div class="pswp__preloader__icn">
+                                  <div class="pswp__preloader__cut">
+                                    <div class="pswp__preloader__donut"></div>
+                                  </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="pswp__share-modal pswp__share-modal--hidden pswp__single-tap">
+                            <div class="pswp__share-tooltip"></div>
+                        </div>
+
+                        <button class="pswp__button pswp__button--arrow--left" title="Previous (arrow left)">
+                        </button>
+
+                        <button class="pswp__button pswp__button--arrow--right" title="Next (arrow right)">
+                        </button>
+
+                        <div class="pswp__caption">
+                            <div class="pswp__caption__center"></div>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+            	<script type='text/javascript'>
+	/* <![CDATA[ */
+	var pswp_gallery = [{"src":"https:\/\/kinfolk.com\/wp-content\/uploads\/2015\/11\/Kinfolk_Vol18_ConnectingteLots_01-865x1024.jpg","w":865,"h":1024,"title":""},{"src":"https:\/\/kinfolk.com\/wp-content\/uploads\/2015\/11\/Kinfolk_Vol18_ConnectingteLots_05-1024x776.jpg","w":1024,"h":776,"title":""},{"src":"https:\/\/kinfolk.com\/wp-content\/uploads\/2015\/11\/Kinfolk_Vol18_ConnectingteLots_02-1024x776.jpg","w":1024,"h":776,"title":""},{"src":"https:\/\/kinfolk.com\/wp-content\/uploads\/2015\/11\/Kinfolk_Vol18_ConnectingteLots_03-1024x388.jpg","w":1024,"h":388,"title":""},{"src":"https:\/\/kinfolk.com\/wp-content\/uploads\/2015\/11\/Kinfolk_Vol18_ConnectingteLots_06-1024x606.jpg","w":1024,"h":606,"title":""},{"src":"https:\/\/kinfolk.com\/wp-content\/uploads\/2015\/11\/Kinfolk_Vol18_ConnectingteLots_04-1024x388.jpg","w":1024,"h":388,"title":""}];	/* ]]> */
+	</script>
+
+	
+
+			<div class="c-pagination c-pagination--prev">
+			<a href="https://kinfolk.com/a-view-from-the-porch/">
+				<div class="c-pagination__flag">
+					<img width="350" height="350" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP89B8AAukB8/71MdcAAAAASUVORK5CYII=" class="attachment-2x2-small size-2x2-small wp-post-image lazy lazyload" alt="kinfolk_vol18_aviewfromtheporch_ft" data-sizes="(max-width: 350px) 100vw, 350px" data-srcset="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-350x350.jpg 350w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-150x150.jpg 150w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-180x180.jpg 180w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-600x600.jpg 600w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-700x700.jpg 700w" data-noscript="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-350x350.jpg" />											<h3 class="c-pagination__title">Issue Eighteen:</h3>
+										<h2 class="c-pagination__title">A View from the Porch</h2>
+				</div>
+				<div class="c-pagination__anchor">
+					previous story				</div>
+			</a>
+		</div>
+	
+
+			<div class="c-pagination c-pagination--next">
+			<a href="https://kinfolk.com/order-in-the-courts/">
+				<div class="c-pagination__flag">
+					<img width="350" height="350" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mP89B8AAukB8/71MdcAAAAASUVORK5CYII=" class="attachment-2x2-small size-2x2-small wp-post-image lazy lazyload" alt="kinfolk_vol18_orderinthecourts_ft" data-sizes="(max-width: 350px) 100vw, 350px" data-srcset="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_OrderintheCourts_FT-1-350x350.jpg 350w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_OrderintheCourts_FT-1-150x150.jpg 150w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_OrderintheCourts_FT-1-180x180.jpg 180w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_OrderintheCourts_FT-1-600x600.jpg 600w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_OrderintheCourts_FT-1-700x700.jpg 700w" data-noscript="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_OrderintheCourts_FT-1-350x350.jpg" />											<h3 class="c-pagination__title">Issue Eighteen:</h3>
+										<h2 class="c-pagination__title">Order in the Courts</h2>
+				</div>
+				<div class="c-pagination__anchor">
+					next story				</div>
+			</a>
+		</div>
+	
+		
+	<div class="module">
+        <div class="module__title">
+            Related Stories        </div>
+        <div class="row">
+		
+            <div class="columns small-6 large-4 xlarge-2 [ match ]">
+
+            	
+                <article class="c-item c-item--vertical">
+                    <figure class="c-item__image">
+					<a href="https://kinfolk.com/a-view-from-the-porch/">
+						<img width="2000" height="2501" src="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-50x63.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazy lazyload" alt="kinfolk_vol18_aviewfromtheporch_ft" data-sizes="(max-width: 2000px) 100vw, 2000px" data-srcset="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT.jpg 2000w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-240x300.jpg 240w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-768x960.jpg 768w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-819x1024.jpg 819w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-50x63.jpg 50w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-350x438.jpg 350w, https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT-1600x2001.jpg 1600w" data-noscript="https://kinfolk.com/wp-content/uploads/2015/11/Kinfolk_Vol18_AViewFromthePorch_FT.jpg" />					</a>
+                    </figure>
+                    <div class="c-item__content">
+                        <div class="c-item__list">
+													<ul>
+															<li><a href="https://kinfolk.com/stories/interiors/">Interiors</a></li>
+																													<li><a href="/stories/issue-18">Issue 18</a></li>
+														</ul>
+						                        </div>
+                        <div class="c-item__title">
+                            <a href="https://kinfolk.com/a-view-from-the-porch/">A View from the Porch</a>
+                        </div>
+                        <p>The shapes and sizes of our homes are changing, and society along with it. Avi Friedman has come to make sense of the new era of household realities.</p>
+                    </div>
+                </article>
+            </div>
+
+        
+            <div class="columns small-6 large-4 xlarge-2 [ match ]">
+
+            	
+                <article class="c-item c-item--vertical">
+                    <figure class="c-item__image">
+					<a href="https://kinfolk.com/in-conversation-ilse-crawford-hugo-macdonald/">
+						<img width="750" height="500" src="https://kinfolk.com/wp-content/uploads/2016/10/K18_Conversation_FT-50x33.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazy lazyload" alt="K18_Conversation_FT" data-sizes="(max-width: 750px) 100vw, 750px" data-srcset="https://kinfolk.com/wp-content/uploads/2016/10/K18_Conversation_FT.jpg 750w, https://kinfolk.com/wp-content/uploads/2016/10/K18_Conversation_FT-300x200.jpg 300w, https://kinfolk.com/wp-content/uploads/2016/10/K18_Conversation_FT-50x33.jpg 50w, https://kinfolk.com/wp-content/uploads/2016/10/K18_Conversation_FT-350x233.jpg 350w" data-noscript="https://kinfolk.com/wp-content/uploads/2016/10/K18_Conversation_FT.jpg" />					</a>
+                    </figure>
+                    <div class="c-item__content">
+                        <div class="c-item__list">
+													<ul>
+															<li><a href="https://kinfolk.com/stories/design/">Design</a></li>
+																													<li><a href="/stories/issue-18">Issue 18</a></li>
+														</ul>
+						                        </div>
+                        <div class="c-item__title">
+                            <a href="https://kinfolk.com/in-conversation-ilse-crawford-hugo-macdonald/">In Conversation: Ilse Crawford and Hugo Macdonald</a>
+                        </div>
+                        <p>Is current home design changing the way we live, or is the way we live changing current home design?</p>
+                    </div>
+                </article>
+            </div>
+
+        
+            <div class="columns small-6 large-4 xlarge-2 [ match ]">
+
+            	
+                <article class="c-item c-item--vertical">
+                    <figure class="c-item__image">
+					<a href="https://kinfolk.com/peter-jensen/">
+						<img width="2000" height="2500" src="https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol21_PeterJansen_FT-50x63.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazy lazyload" alt="kinfolk_vol21_peterjansen_ft" data-sizes="(max-width: 2000px) 100vw, 2000px" data-srcset="https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol21_PeterJansen_FT.jpg 2000w, https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol21_PeterJansen_FT-240x300.jpg 240w, https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol21_PeterJansen_FT-768x960.jpg 768w, https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol21_PeterJansen_FT-819x1024.jpg 819w, https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol21_PeterJansen_FT-50x63.jpg 50w, https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol21_PeterJansen_FT-350x438.jpg 350w, https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol21_PeterJansen_FT-1600x2000.jpg 1600w" data-noscript="https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol21_PeterJansen_FT.jpg" />					</a>
+                    </figure>
+                    <div class="c-item__content">
+                        <div class="c-item__list">
+													<ul>
+															<li><a href="https://kinfolk.com/stories/fashion/">Fashion</a></li>
+																													<li><a href="/stories/issue-21">Issue 21</a></li>
+														</ul>
+						                        </div>
+                        <div class="c-item__title">
+                            <a href="https://kinfolk.com/peter-jensen/">Peter Jensen</a>
+                        </div>
+                        <p>With designs as colorful as the muses that influence him, Peter Jensen confronts the fashion world with a gentle dose of eccentricity and humor.</p>
+                    </div>
+                </article>
+            </div>
+
+        
+            <div class="columns small-6 large-4 xlarge-2 [ match ]">
+
+            	
+                <article class="c-item c-item--vertical">
+                    <figure class="c-item__image">
+					<a href="https://kinfolk.com/contemporary-concerns-helen-frankenthaler/">
+						<img width="1950" height="2925" src="https://kinfolk.com/wp-content/uploads/2016/12/Kinfolk_Web2016_HelenFrankenthaler_FT-50x75.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazy lazyload" alt="kinfolk_web2016_helenfrankenthaler_ft" data-sizes="(max-width: 1950px) 100vw, 1950px" data-srcset="https://kinfolk.com/wp-content/uploads/2016/12/Kinfolk_Web2016_HelenFrankenthaler_FT.jpg 1950w, https://kinfolk.com/wp-content/uploads/2016/12/Kinfolk_Web2016_HelenFrankenthaler_FT-200x300.jpg 200w, https://kinfolk.com/wp-content/uploads/2016/12/Kinfolk_Web2016_HelenFrankenthaler_FT-768x1152.jpg 768w, https://kinfolk.com/wp-content/uploads/2016/12/Kinfolk_Web2016_HelenFrankenthaler_FT-683x1024.jpg 683w, https://kinfolk.com/wp-content/uploads/2016/12/Kinfolk_Web2016_HelenFrankenthaler_FT-50x75.jpg 50w, https://kinfolk.com/wp-content/uploads/2016/12/Kinfolk_Web2016_HelenFrankenthaler_FT-510x765.jpg 510w, https://kinfolk.com/wp-content/uploads/2016/12/Kinfolk_Web2016_HelenFrankenthaler_FT-350x525.jpg 350w, https://kinfolk.com/wp-content/uploads/2016/12/Kinfolk_Web2016_HelenFrankenthaler_FT-1600x2400.jpg 1600w" data-noscript="https://kinfolk.com/wp-content/uploads/2016/12/Kinfolk_Web2016_HelenFrankenthaler_FT.jpg" />					</a>
+                    </figure>
+                    <div class="c-item__content">
+                        <div class="c-item__list">
+													<ul>
+															<li><a href="https://kinfolk.com/stories/arts-culture/">Arts &amp; Culture</a></li>
+																												</ul>
+						                        </div>
+                        <div class="c-item__title">
+                            <a href="https://kinfolk.com/contemporary-concerns-helen-frankenthaler/">Contemporary Concerns: Helen Frankenthaler</a>
+                        </div>
+                        <p>The abstract expressionism of Helen Frankenthaler continues to garner more recognition, and generations of new fans. </p>
+                    </div>
+                </article>
+            </div>
+
+        
+            <div class="columns small-6 large-4 xlarge-2 [ match ]">
+
+            	
+                <article class="c-item c-item--vertical">
+                    <figure class="c-item__image">
+					<a href="https://kinfolk.com/unexpected-pairings/">
+						<img width="1240" height="1240" src="https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT-50x50.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazy lazyload" alt="kinfolk_vol20_behindthescenes_unexpectedpairings_ft" data-sizes="(max-width: 1240px) 100vw, 1240px" data-srcset="https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT.jpg 1240w, https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT-150x150.jpg 150w, https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT-300x300.jpg 300w, https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT-768x768.jpg 768w, https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT-1024x1024.jpg 1024w, https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT-180x180.jpg 180w, https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT-350x350.jpg 350w, https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT-600x600.jpg 600w, https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT-50x50.jpg 50w, https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT-700x700.jpg 700w" data-noscript="https://kinfolk.com/wp-content/uploads/2014/11/Kinfolk_Vol20_BehindtheScenes_UnexpectedPairings_FT.jpg" />					</a>
+                    </figure>
+                    <div class="c-item__content">
+                        <div class="c-item__list">
+													<ul>
+															<li><a href="https://kinfolk.com/stories/food/">Food</a></li>
+																													<li><a href="/stories/issue-14">Issue 14</a></li>
+														</ul>
+						                        </div>
+                        <div class="c-item__title">
+                            <a href="https://kinfolk.com/unexpected-pairings/">Unexpected Pairings</a>
+                        </div>
+                        <p>We asked two culinary connoisseurs to tell us about some unusual flavor combinations that have won them over.</p>
+                    </div>
+                </article>
+            </div>
+
+        
+            <div class="columns small-6 large-4 xlarge-2 [ match ]">
+
+            	
+                <article class="c-item c-item--vertical">
+                    <figure class="c-item__image">
+					<a href="https://kinfolk.com/origin-of-the-chair/">
+						<img width="1550" height="1937" src="https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol22_OriginoftheChair_FT-1-50x62.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image lazy lazyload" alt="kinfolk_vol22_originofthechair_ft" data-sizes="(max-width: 1550px) 100vw, 1550px" data-srcset="https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol22_OriginoftheChair_FT-1.jpg 1550w, https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol22_OriginoftheChair_FT-1-240x300.jpg 240w, https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol22_OriginoftheChair_FT-1-768x960.jpg 768w, https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol22_OriginoftheChair_FT-1-819x1024.jpg 819w, https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol22_OriginoftheChair_FT-1-50x62.jpg 50w, https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol22_OriginoftheChair_FT-1-350x437.jpg 350w" data-noscript="https://kinfolk.com/wp-content/uploads/2016/10/Kinfolk_Vol22_OriginoftheChair_FT-1.jpg" />					</a>
+                    </figure>
+                    <div class="c-item__content">
+                        <div class="c-item__list">
+													<ul>
+															<li><a href="https://kinfolk.com/stories/design/">Design</a></li>
+																													<li><a href="/stories/issue-22">Issue 22</a></li>
+														</ul>
+						                        </div>
+                        <div class="c-item__title">
+                            <a href="https://kinfolk.com/origin-of-the-chair/">Origin of the Chair</a>
+                        </div>
+                        <p>Still standing: design historian Witold Rybczynski’s appreciation of the chair and its 5,000-year history.</p>
+                    </div>
+                </article>
+            </div>
+
+                </div>
+	</div>
+
+	
+</article>
+
+<!-- END HTML -->
+
+
+</form>
+            </main>
+        </div><!-- /#container -->
+
+		<footer class="l-footer">
+            <div class="container">
+    			<div class="row column">
+                    <div class="l-footer__inner">
+                        <div class="row collapse">
+                            <div class="columns small-12 medium-4 medium-push-4">
+                                <div class="l-footer__social">
+                                    <ul class="c-social c-social--follow"><li class="c-social__network"><a href="https://uk.pinterest.com/kinfolkmagazine" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--pinterest">:<use xlink:href="#pinterest"></use></svg></a></li><li class="c-social__network"><a href="https://www.facebook.com/kinfolkmag" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--facebook">:<use xlink:href="#facebook"></use></svg></a></li><li class="c-social__network"><a href="https://twitter.com/kinfolkmag" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--twitter">:<use xlink:href="#twitter"></use></svg></a></li><li class="c-social__network"><a href="http://instagram.com/kinfolk" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--instagram">:<use xlink:href="#instagram"></use></svg></a></li></ul>                                </div>
+                            </div>
+                            <div class="columns small-8 medium-4 medium-pull-4">
+                                <div class="l-footer__legal">
+                                    &copy;Kinfolk 2017                                                                        <a href="https://kinfolk.com/terms-and-conditions/">Terms &amp; Conditions</a>
+                                                                    </div>
+                            </div>
+                            <div class="columns small-4 medium-4">
+                                <div class="l-footer__site-by">
+                                    Site by <a href="http://www.madebysix.com" target="_blank">Six</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+		</footer>
+
+        
+        		<script type="text/javascript">
+			(function($){
+
+				var guest_id = 0;
+				var email = '';
+				var $checkout_form = $( 'form.checkout' );
+				var checkout_fields = ["billing_first_name","billing_last_name","billing_company","billing_phone","billing_country","billing_address_1","billing_address_2","billing_city","billing_state","billing_postcode"];
+				var checkout_fields_data = {};
+				var language = '';
+
+				$.each( checkout_fields, function( i, field_name ) {
+					checkout_fields_data[field_name] = '';
+				});
+
+
+				function captureEmail() {
+
+					if ( ! $(this).val() || email == $(this).val() ) {
+						return;
+					}
+
+					email = $(this).val();
+
+					var data = {
+						email: email,
+						location: window.location.href,
+						language: language,
+						checkout_fields: checkout_fields_data
+					};
+
+					$.post( '/connecting-the-lots/?aw-ajax=capture_email', data, function( response ) {
+						if ( response && response.success ) {
+							guest_id = response.data.guest_id;
+						}
+					});
+				}
+
+
+				function captureCheckoutField() {
+
+					var field_name = $(this).attr( 'name' );
+
+					if ( ! field_name || checkout_fields.indexOf( field_name ) == -1  ) {
+						return;
+					}
+
+					if ( ! $(this).val() || checkout_fields_data[field_name] == $(this).val() ) {
+						return;
+					}
+
+					checkout_fields_data[field_name] = $(this).val();
+
+					if ( guest_id ) {
+						$.post( '/connecting-the-lots/?aw-ajax=capture_checkout_field', {
+							guest_id: guest_id,
+							field_name: field_name,
+							field_value: checkout_fields_data[field_name]
+						});
+					}
+				}
+
+
+				$(document).on( 'blur', '#billing_email, .automatewoo-capture-guest-email', captureEmail );
+				$checkout_form.on( 'change', 'select', captureCheckoutField );
+				$checkout_form.on( 'blur', '.input-text', captureCheckoutField );
+
+			})(jQuery);
+		</script>
+		<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/connecting-the-lots\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"https:\/\/kinfolk.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kinfolk.com/wp-content/themes/kinfolk2016/woocommerce/assets/js/add-to-cart.js?ver=2.6.8'></script>
+<script type='text/javascript' src='//kinfolk.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/connecting-the-lots\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//kinfolk.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.8'></script>
+<script type='text/javascript' src='//kinfolk.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/connecting-the-lots\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//kinfolk.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpAPIData = {"debug":"","nonce":"cf8cf2a5fe","siteUrl":"https:\/\/kinfolk.com","themeUrl":"\/wp-content\/themes\/kinfolk2016\/","ajaxurl":"https:\/\/kinfolk.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kinfolk.com/wp-content/themes/kinfolk2016/assets/js/main.js?ver=1.3.1'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/wp-embed.min.js?ver=4.6.6'></script>
+
+	</body>
+</html>

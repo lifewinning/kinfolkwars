@@ -1,0 +1,381 @@
+/*!
+ * WooCommerce Add to Cart JS
+ */
+
+jQuery( function( $ ) {
+
+	/* global wc_add_to_cart_params */
+	if ( typeof wc_add_to_cart_params === 'undefined' ) {
+		return false;
+	}
+
+	$('.cart, .bundle_form').on('submit', function(e){
+		e.preventDefault();
+		
+		
+ 		var formValues = $(this).serializeArray();
+		var data = {action: 'kf_add_to_cart_ajax'};
+		for (var i = formValues.length - 1; i >= 0; i--) {
+			if(formValues[i].name == 'add-to-cart')
+			{
+				data.product_id = formValues[i].value;
+			}
+			else
+			{
+				data[formValues[i].name] = formValues[i].value;
+			}
+		}
+
+		var $thisbutton = $(this).find('.ajax_add_to_cart');
+		$thisbutton.removeClass( 'added' ).addClass( 'loading' );
+
+		// Trigger event
+		$( document.body ).trigger( 'adding_to_cart', [ $thisbutton, data ] );
+
+
+		// Ajax action
+		$.post( wpAPIData.ajaxurl, data, function( response ) {
+
+			if ( ! response ) {
+				return;
+			}
+
+			var this_page = window.location.toString();
+
+			this_page = this_page.replace( 'add-to-cart', 'added-to-cart' );
+
+			if ( response.error && response.product_url ) {
+				window.location = response.product_url;
+				return;
+			}
+			$thisbutton.removeClass( 'loading' );
+
+			//reset any gift buttons for subscription
+			$('.gift_button.subscription_gift').text('Subscribe as a gift');
+
+			var fragments = response.fragments;
+			var cart_hash = response.cart_hash;
+
+			// Block fragments class
+			if ( fragments ) {
+				$.each( fragments, function( key ) {
+					$( key ).addClass( 'updating' );
+				});
+			}
+
+			// Block widgets and fragments
+			$( '.shop_table.cart, .updating, .cart_totals' ).fadeTo( '400', '0.6' ).block({
+				message: null,
+				overlayCSS: {
+					opacity: 0.6
+				}
+			});
+
+			// Changes button classes
+			$thisbutton.addClass( 'added' );
+
+			// View cart text
+			if ( ! wc_add_to_cart_params.is_cart && $thisbutton.parent().find( '.added_to_cart' ).length === 0 ) {
+				$thisbutton.after( ' <a href="' + wc_add_to_cart_params.cart_url + '" class="added_to_cart wc-forward" title="' +
+					wc_add_to_cart_params.i18n_view_cart + '">' + wc_add_to_cart_params.i18n_view_cart + '</a>' );
+			}
+
+			// Replace fragments
+			if ( fragments ) {
+				$.each( fragments, function( key, value ) {
+					$( key ).replaceWith( value );
+				});
+			}
+
+			// Unblock
+			$( '.widget_shopping_cart, .updating' ).stop( true ).css( 'opacity', '1' ).unblock();
+
+			// Cart page elements
+			$( '.shop_table.cart' ).load( this_page + ' .shop_table.cart:eq(0) > *', function() {
+
+				$( '.shop_table.cart' ).stop( true ).css( 'opacity', '1' ).unblock();
+
+				$( document.body ).trigger( 'cart_page_refreshed' );
+			});
+
+			$( '.cart_totals' ).load( this_page + ' .cart_totals:eq(0) > *', function() {
+				$( '.cart_totals' ).stop( true ).css( 'opacity', '1' ).unblock();
+			});
+
+			// Trigger event so themes can refresh other areas
+			$( document.body ).trigger( 'added_to_cart', [ fragments, cart_hash, $thisbutton ] );
+		});
+	});
+
+	// Ajax add to cart
+	$( document ).on( 'click', '.add_to_cart_button', function() {
+
+		// AJAX add to cart request
+		var $thisbutton = $( this );
+
+		if ( $thisbutton.is( '.ajax_add_to_cart' ) ) {
+
+			if ( ! $thisbutton.attr( 'data-product_id' ) ) {
+				return true;
+			}
+
+			$thisbutton.removeClass( 'added' );
+			$thisbutton.addClass( 'loading' );
+
+			var data = {};
+
+			$.each( $thisbutton.data(), function( key, value ) {
+				data[key] = value;
+			});
+
+			// Trigger event
+			$( document.body ).trigger( 'adding_to_cart', [ $thisbutton, data ] );
+
+			// Ajax action
+			$.post( wc_add_to_cart_params.wc_ajax_url.toString().replace( '%%endpoint%%', 'add_to_cart' ), data, function( response ) {
+
+				if ( ! response ) {
+					return;
+				}
+
+				var this_page = window.location.toString();
+
+				this_page = this_page.replace( 'add-to-cart', 'added-to-cart' );
+
+				if ( response.error && response.product_url ) {
+					window.location = response.product_url;
+					return;
+				}
+
+				// Redirect to cart option
+				if ( wc_add_to_cart_params.cart_redirect_after_add === 'yes' ) {
+
+					window.location = wc_add_to_cart_params.cart_url;
+					return;
+
+				} else {
+
+					$thisbutton.removeClass( 'loading' );
+
+					var fragments = response.fragments;
+					var cart_hash = response.cart_hash;
+
+					// Block fragments class
+					if ( fragments ) {
+						$.each( fragments, function( key ) {
+							$( key ).addClass( 'updating' );
+						});
+					}
+
+					// Block widgets and fragments
+					$( '.shop_table.cart, .updating, .cart_totals' ).fadeTo( '400', '0.6' ).block({
+						message: null,
+						overlayCSS: {
+							opacity: 0.6
+						}
+					});
+
+					// Changes button classes
+					$thisbutton.addClass( 'added' );
+
+					// View cart text
+					if ( ! wc_add_to_cart_params.is_cart && $thisbutton.parent().find( '.added_to_cart' ).length === 0 ) {
+						$thisbutton.after( ' <a href="' + wc_add_to_cart_params.cart_url + '" class="added_to_cart wc-forward" title="' +
+							wc_add_to_cart_params.i18n_view_cart + '">' + wc_add_to_cart_params.i18n_view_cart + '</a>' );
+					}
+
+					// Replace fragments
+					if ( fragments ) {
+						$.each( fragments, function( key, value ) {
+							$( key ).replaceWith( value );
+						});
+					}
+
+					// Unblock
+					$( '.widget_shopping_cart, .updating' ).stop( true ).css( 'opacity', '1' ).unblock();
+
+					// Cart page elements
+					$( '.shop_table.cart' ).load( this_page + ' .shop_table.cart:eq(0) > *', function() {
+
+						$( '.shop_table.cart' ).stop( true ).css( 'opacity', '1' ).unblock();
+
+						$( document.body ).trigger( 'cart_page_refreshed' );
+					});
+
+					$( '.cart_totals' ).load( this_page + ' .cart_totals:eq(0) > *', function() {
+						$( '.cart_totals' ).stop( true ).css( 'opacity', '1' ).unblock();
+					});
+
+					// Trigger event so themes can refresh other areas
+					$( document.body ).trigger( 'added_to_cart', [ fragments, cart_hash, $thisbutton ] );
+				}
+			});
+
+			return false;
+
+		}
+
+		return true;
+	});
+
+	// Gift Button Functionality
+	$( document ).on( 'click', '.gift_button', function() {
+		if ($(this).is('.subscription_gift')) {
+			$(this).text('Adding...');
+			$('fieldset .woocommerce_subscription_gifting_checkbox').click();
+			$('fieldset .woocommerce_subscriptions_gifting_recipient_email .recipient_email').val('your@mail.com');
+		}
+	});
+
+	
+	if($('body').hasClass('woocommerce-cart')) {
+
+		if(!$('.woocommerce_subscription_gifting_checkbox').length) {
+			$('.cart-custom-gift-option').hide();
+		} 
+		else if($('.woocommerce_subscription_gifting_checkbox').is(':checked')) 
+		{
+			$('.custom_subscription_gifting_checkbox').prop('checked', true);
+		} 
+		else if(!$('.woocommerce_subscription_gifting_checkbox').is(':checked')) 
+		{
+			$('.custom_subscription_gifting_checkbox').prop('checked', false);
+		}
+
+		$('.custom_subscription_gifting_checkbox').click(function() {
+			if($('.custom_subscription_gifting_checkbox').is(':checked')) {
+				$('.woocommerce_subscription_gifting_checkbox').prop('checked', true);
+				$('.recipient_email').val('your@mail.com');
+				$('.woocommerce_subscriptions_gifting_recipient_email').slideDown();
+			} else if(!$('.custom_subscription_gifting_checkbox').is(':checked')) {
+				$('.woocommerce_subscription_gifting_checkbox').prop('checked', false);
+				$('.recipient_email').val('');
+				$('.woocommerce_subscriptions_gifting_recipient_email').slideUp();
+			}
+		});
+	}
+
+
+	// Checkout Page Gift Logic
+	if($('body').hasClass('woocommerce-checkout')) {
+
+		$( document.body ).on( 'updated_checkout', function(){
+			check_gifting();
+		} );
+
+		if($('.woocommerce_subscription_gifting_checkbox').length > 1) {
+			$($('.woocommerce_subscription_gifting_checkbox')).each(function(index) {
+				if(!$(this).is(':checked')) {
+					$('.woocommerce_subscription_gifting_checkbox').prop('checked', false);
+					return false
+				}
+			});
+		}
+
+		check_gifting();
+
+
+		function check_gifting()
+		{
+			// Check if gift option has been selected by clicking the purchase gift button and thick custom gift option checkbox or hide custom recipient email input field accordingly
+			if(!$('.woocommerce_subscription_gifting_checkbox').length) 
+			{
+				$('.gift-label').hide();
+				$('.custom-gift-option-section').hide();
+				$('.extra-custom-gift-option-section').hide();
+				$('.custom-recipient-email-section').hide();
+				$('#gift_message_section').hide();
+				$('.recipient-details-title').hide();
+				$('.subscription-renew-message').hide();
+			} 
+			else if($('.woocommerce_subscription_gifting_checkbox').is(':checked')) 
+			{
+				$('.custom_subscription_gifting_checkbox').prop('checked', true);
+				$('.extra_custom_subscription_gifting_checkbox').prop('checked', true);
+				$('#ship-to-different-address').hide();
+				$('.custom_recipient_email').val('');
+				//$('div.shipping_address').css('display', 'none');
+				//$('.recipient_email').val('');
+				//$('.woocommerce_subscription_gifting_checkbox').prop('checked', true);
+			} 
+			else if(!$('.woocommerce_subscription_gifting_checkbox').is(':checked')) 
+			{
+				$('.custom_subscription_gifting_checkbox').prop('checked', false);
+				$('.gift-label').hide();
+				$('.custom-recipient-email-section').hide();
+				$('#gift_message_section').hide();
+				$('.recipient-details-title').hide();
+				$('.subscription-renew-message').hide();
+				$('.recipient_email').val('');
+				$('#ship-to-different-address').show();
+			}
+
+			if(!$('div.shipping_address').length) {
+				$('#gift_message_section').hide();
+			}
+		}
+
+		// Detect custom gift option checkbox click to toggle standard woocommerce gift option checkbox accordingly
+		function toggleGiftOption(activeCheckbox, passiveCheckbox) {
+			if(activeCheckbox.is(':checked')) {
+
+				//this is a gift!
+				$('.gift-label').show();
+
+				passiveCheckbox.prop('checked', true);
+				$('.woocommerce_subscription_gifting_checkbox').prop('checked', true);
+				$('.woocommerce_subscriptions_gifting_recipient_email').slideDown();
+				$('#ship-to-different-address-checkbox').prop('checked', true);
+				$('div.shipping_address').slideDown();
+				$('#ship-to-different-address').hide();
+				$('.recipient-details-title').slideDown();
+				if($('.woocommerce_subscription_gifting_checkbox').length) {
+					$('.custom-recipient-email-section').slideDown();
+					$('.subscription-renew-message').slideDown();
+				}
+				if($('div.shipping_address').length) {
+					$('#gift_message_section').slideDown();
+				}
+			} else if(!activeCheckbox.is(':checked')) {
+
+				//not a gift
+
+				passiveCheckbox.prop('checked', false);
+				$('.gift-label').hide();
+				$('.woocommerce_subscription_gifting_checkbox').prop('checked', false);
+				$('.woocommerce_subscriptions_gifting_recipient_email').slideUp();
+				$('#ship-to-different-address-checkbox').prop('checked', false);
+				$('div.shipping_address').css('display', 'none');
+				$('#gift_message_section').slideUp();
+				$('.recipient-details-title').slideUp();
+				$('.subscription-renew-message').slideUp();
+				$('#ship-to-different-address').slideDown();
+				if($('.woocommerce_subscription_gifting_checkbox').length) {
+					$('.custom-recipient-email-section').slideUp();
+					$('.subscription-renew-message').slideUp();
+					$('.custom_recipient_email').val('');
+					$('.recipient_email').val('');
+				}
+				if($('div.shipping_address').length) {
+					$('#gift_message_section').slideUp();
+				}
+			}
+		}
+
+		$('.custom_subscription_gifting_checkbox').on('change',function() {
+			toggleGiftOption($(this), $('.extra_custom_subscription_gifting_checkbox'));
+		});
+
+		$('.extra_custom_subscription_gifting_checkbox').click(function() {
+			toggleGiftOption($(this), $('.custom_subscription_gifting_checkbox'));
+		});
+
+		// Overwrite standard recipient email input field value with custom recipient email input field value when custom input field gets out of focus
+		$('.custom_recipient_email').focusout(function() {
+			$('.recipient_email').val($('.custom_recipient_email').val());
+		}).on('keyup', function(){
+			$('.recipient_email').val($('.custom_recipient_email').val());
+		});
+	}
+
+});

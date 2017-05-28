@@ -1,0 +1,536 @@
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=1.0, minimum-scale=1.0, maximum-scale=1.0">
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://kinfolk.com/xmlrpc.php">
+
+
+	<title>My Account &#8211; Kinfolk</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v3.8 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://kinfolk.com/my-account/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://kinfolk.com/my-account/" />
+<meta property="og:site_name" content="Kinfolk" />
+<meta name="twitter:card" content="summary" />
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//maps.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel='stylesheet' id='wcs-view-subscription-css'  href='//kinfolk.com/wp-content/plugins/woocommerce-subscriptions/assets/css/view-subscription.css?ver=2.1.4' type='text/css' media='only screen and (max-width: 768px)' />
+<link rel='stylesheet' id='kf-style-css'  href='https://kinfolk.com/wp-content/themes/kinfolk2016/assets/css/main.css?ver=1.3.1' type='text/css' media='all' />
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-content/plugins/woocommerce-subscriptions-gifting-master/js/wcs-gifting.js?ver=4.6.6'></script>
+<link rel='https://api.w.org/' href='https://kinfolk.com/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://kinfolk.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://kinfolk.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.6.6" />
+<meta name="generator" content="WooCommerce 2.6.8" />
+<link rel='shortlink' href='https://kinfolk.com/?p=8' />
+<link rel="alternate" type="application/json+oembed" href="https://kinfolk.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkinfolk.com%2Fmy-account%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://kinfolk.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fkinfolk.com%2Fmy-account%2F&#038;format=xml" />
+<!-- SLP Custom CSS -->
+<style type="text/css">
+div#map.slp_map {
+width:100%;
+height:480px;
+}
+div#slp_tagline {
+width:100%;
+}
+</style>
+
+<link rel="icon" href="https://kinfolk.com/wp-content/uploads/2016/09/cropped-apple-touch-icon-50x50.png" sizes="32x32" />
+<link rel="icon" href="https://kinfolk.com/wp-content/uploads/2016/09/cropped-apple-touch-icon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://kinfolk.com/wp-content/uploads/2016/09/cropped-apple-touch-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://kinfolk.com/wp-content/uploads/2016/09/cropped-apple-touch-icon-300x300.png" />
+
+	<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-41955240-1']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; 
+ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+</head>
+
+<body class="page page-id-8 page-template-default woocommerce-account woocommerce-page">
+
+	
+	<!-- Woocommerce mini cart -->
+	<div class="mini-cart">
+		<div class="container">
+			<div class="row">
+				<div class="columns small-12">
+					<div class="mini-cart__wrapper">
+						
+
+<ul class="cart_list product_list_widget ">
+
+	
+		<li class="empty">No products in the cart.</li>
+
+	
+</ul><!-- end product list -->
+
+
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<div class="hide"><svg xmlns="http://www.w3.org/2000/svg" style="width:0; height:0; visibility:hidden;">
+    <symbol id="cart" viewBox="0 0 22 19">
+      <title>cart</title><rect class="cls-1" x="1" y="5" width="20" height="13"/><polyline class="cls-1" points="5 7 5 1 17 1 17 7"/>
+    </symbol>
+    <symbol id="chevron-down" viewBox="0 0 14.06 8.32">
+      <title>chevron-down</title><polygon class="cls-1" points="7.03 8.32 0 1.26 1.26 0 7.03 5.79 12.8 0 14.06 1.26 7.03 8.32"/>
+    </symbol>
+    <symbol id="chevron-left" viewBox="0 0 8.3 14.1">
+        <polygon class="st0" points="7,0 8.3,1.3 2.5,7.1 8.3,12.8 7,14.1 0,7.1 "/> 
+    </symbol>
+    <symbol id="chevron-right" viewBox="0 0 8.3 14.1">
+        <polygon class="st0" points="1.3,14.1 0,12.8 5.8,7 0,1.3 1.3,0 8.3,7 "/> 
+    </symbol>
+    <symbol id="close-disc" viewBox="0 0 22.66 22.66">
+      <title>close-disc</title><line class="cls-1" x1="6.89" y1="15.77" x2="15.77" y2="6.89"/><line class="cls-1" x1="6.89" y1="6.89" x2="15.77" y2="15.77"/><circle class="cls-1" cx="11.33" cy="11.33" r="10.83"/>
+    </symbol>
+    <symbol id="close" viewBox="0 0 18.4 18.4">
+        <g> <rect x="-2.8" y="8.2" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.8077 9.1924)" class="st0" width="24" height="2"/> <rect x="8.2" y="-2.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -3.8077 9.1924)" class="st0" width="2" height="24"/> </g> 
+    </symbol>
+    <symbol id="expand" viewBox="0 0 44 44">
+        <g> <rect class="st0" width="44" height="44"/> <polygon class="st1" points="34,21 33,21 33,11 23,11 23,10 34,10 	"/> <polygon class="st1" points="19,35 9,35 9,25 10,25 10,34 19,34 	"/> </g> 
+    </symbol>
+    <symbol id="facebook" viewBox="0 0 9.6 17.7">
+        <path class="st0" d="M9.5,0.1v3.1c0,0-2,0-2.3,0C6.9,3.1,6.5,3.4,6.5,4s0,1.8,0,1.8h3.1L9.3,8.9H6.4v8.8H2.3V8.9H0V5.8h2.1V3.5
+	c0,0,0-1.2,0.5-1.9c0.5-0.7,1.1-1.3,2.5-1.5C6.4-0.1,9.5,0.1,9.5,0.1"/> 
+    </symbol>
+    <symbol id="instagram" viewBox="0 0 16.6 16.8">
+        <g> <path class="st0" d="M8.4,4.6c0.8,0,1.7,0.2,2.3,0.7h5.9V4.2c0-2.3-1.9-4.2-4.2-4.2H4.2C1.9,0,0,1.9,0,4.2v1.2h6.1
+		C6.8,5,7.6,4.6,8.4,4.6z M11.8,2.6c0-0.2,0.2-0.5,0.5-0.5h1.4c0.2,0,0.5,0.2,0.5,0.5V4c0,0.2-0.2,0.5-0.5,0.5h-1.4
+		c-0.2,0-0.5-0.2-0.5-0.5V2.6z M12.4,8.6c0,2.1-1.8,3.9-3.9,3.9s-3.9-1.8-3.9-3.9c0-0.6,0.1-1.2,0.4-1.7H0v5.7
+		c0,2.3,1.9,4.2,4.2,4.2h8.3c2.3,0,4.2-1.9,4.2-4.2V6.9H12C12.2,7.5,12.4,8,12.4,8.6z"/> </g> 
+    </symbol>
+    <symbol id="pinterest" viewBox="0 0 18 17.8">
+        <path class="st0" d="M8.9,0C4,0,0,4,0,8.9c0,3.7,2.1,6.8,5.4,8.2c0-0.6,0-1.4,0.1-2c0.1-0.7,1.2-4.9,1.2-4.9S6.4,9.6,6.4,8.8
+	c0-1.3,0.7-2.3,1.7-2.3c0.8,0,1.2,0.6,1.2,1.3c0,0.8-0.5,2-0.8,3.2c-0.2,1,0.5,1.7,1.4,1.7c1.7,0,2.9-2.1,2.9-4.8
+	c0-1.9-1.3-3.4-3.7-3.4c-2.7,0-4.4,2-4.4,4.3c0,0.8,0.2,1.3,0.6,1.8c0.1,0.2,0.2,0.2,0.1,0.5l-0.1,0.7C5.2,12,5,12.1,4.8,12
+	C3.6,11.5,3,10.1,3,8.6C3,6.1,5.1,3,9.4,3C12.8,3,15,5.5,15,8.1c0,3.4-1.9,6.1-4.8,6.1c-1,0-1.9-0.5-2.1-1.1c0,0-0.5,2-0.6,2.5
+	c-0.2,0.7-0.6,1.4-1,1.9c0.8,0.2,1.7,0.4,2.5,0.4c4.9,0,8.9-4,8.9-8.9C17.8,4,13.8,0,8.9,0L8.9,0z"/> 
+    </symbol>
+    <symbol id="play" viewBox="0 0 50.8 50.8">
+        <g> <polygon class="st0" points="18.4,16.6 18.4,34.2 34.7,25.4 	"/> <path class="st1" d="M25.4,50.8C11.4,50.8,0,39.4,0,25.4C0,11.4,11.4,0,25.4,0c14,0,25.4,11.4,25.4,25.4
+		C50.8,39.4,39.4,50.8,25.4,50.8z M25.4,0.9c-13.5,0-24.5,11-24.5,24.5s11,24.5,24.5,24.5c13.5,0,24.5-11,24.5-24.5
+		S38.9,0.9,25.4,0.9z"/> </g> 
+    </symbol>
+    <symbol id="search" viewBox="0 0 13.3 14">
+        <path class="st0" d="M13.1,12.7l-3-3c0.9-1,1.5-2.4,1.5-3.9C11.6,2.6,9,0,5.8,0C2.6,0,0,2.6,0,5.8c0,3.2,2.6,5.8,5.8,5.8
+	c1.1,0,2.2-0.3,3.1-0.9l3,3.1c0.2,0.2,0.4,0.2,0.6,0.2c0.2,0,0.4-0.1,0.6-0.2C13.3,13.4,13.3,12.9,13.1,12.7L13.1,12.7z M1.6,5.8
+	c0-2.3,1.9-4.2,4.2-4.2c2.3,0,4.2,1.9,4.2,4.2C10,8.1,8.1,10,5.8,10C3.5,10,1.6,8.1,1.6,5.8z"/> 
+    </symbol>
+    <symbol id="twitter" viewBox="0 0 19.1 15.1">
+        <path class="st0" d="M19.1,1.8c-0.7,0.4-1.4,0.5-2.3,0.6c0.8-0.5,1.4-1.2,1.7-2.1c-0.7,0.5-1.5,0.7-2.5,1C15.3,0.5,14.3,0,13.2,0
+	c-2.1,0-3.9,1.7-3.9,3.8c0,0.4,0,0.6,0.1,0.8C6.2,4.5,3.3,3,1.3,0.6C1,1.2,0.8,1.8,0.8,2.5c0,1.3,0.7,2.5,1.8,3.2
+	C2,5.7,1.4,5.5,0.8,5.2l0,0c0,1.9,1.3,3.4,3.1,3.8C3.6,9.2,3.2,9.2,2.9,9.2c-0.2,0-0.5,0-0.7-0.1c0.5,1.5,1.9,2.6,3.7,2.6
+	c-1.3,1.1-3,1.7-4.9,1.7c-0.4,0-0.6,0-1,0c1.8,1.1,3.8,1.8,5.9,1.8C13.1,15.1,17,9.3,17,4.2V3.7C18,3.2,18.7,2.6,19.1,1.8L19.1,1.8z
+	"/> 
+    </symbol></svg></div>
+
+	
+	<header class="l-header [ push ]">
+		<div class="container">
+			<div class="row">
+				<div class="columns small-12">
+
+					<div class="l-header__inner">
+						<div class="l-header__burger [ menu-btn ]" data-pushy-dir="left">
+							<span></span>
+						</div>
+
+						
+            <div itemscope itemtype="http://schema.org/Organization" class="l-header__logo">
+                <a itemprop="url" href="https://kinfolk.com/"><img itemprop="logo" src="https://kinfolk.com/wp-content/themes/kinfolk2016/assets/img/logo.svg" alt="Kinfolk"/></a>
+            </div>
+
+            <ul class="l-header__icons">
+                                <li>
+                    <a class="l-header__cart hidden" href="https://kinfolk.com/cart/"><svg viewBox="0 0 100 100" role="presentation" class="mini-cart-icon icon--cart">:<use xlink:href="#cart"></use></svg><span>(0)</span></a>                </li>
+                                <li>
+                    <a class="l-header__subscribe" href="/shop">Shop</a>
+                </li>
+                <li>
+                    <div class="l-header__search [ js-overlay-trigger ]">
+                        <svg viewBox="0 0 100 100" role="presentation" class="icon--search">:<use xlink:href="#search"></use></svg>
+                    </div>
+                </li>
+            </ul>
+
+            					</div>
+
+				</div>
+
+			</div>
+		</div>
+	</header>
+
+	
+	            <div class="c-overlay">
+                <div class="c-overlay__close [ js-overlay-trigger ]"><svg viewBox="0 0 100 100" role="presentation" class="icon--close">:<use xlink:href="#close"></use></svg></div>
+                <div class="table [ align--center ]">
+                    <div class="table__cell">
+                        <form role="search" method="get" id="searchform" class="searchform" action="https://kinfolk.com/">
+				<div>
+					<label class="screen-reader-text" for="s">Search for:</label>
+					<input type="text" value="" name="s" id="s" />
+					<input type="submit" id="searchsubmit" value="Search" />
+				</div>
+			</form>                        <h5 class="c-list__title c-list--large">Browse Categories</h5>
+                        <ul class="c-list c-list--large">
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/design/">Design</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/fashion/">Fashion</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/interiors/">Interiors</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/arts-culture/">Arts & Culture</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/food/">Food</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/city-guides/">City Guides</a>
+                                </li>
+                                                            <li class="c-list__item">
+                                    <a href="https://kinfolk.com/stories/">All Stories</a>
+                                </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+
+            
+	<nav class="l-nav [ pushy pushy-left ]">
+		<div class="site-close [ pushy-link ]"><svg viewBox="0 0 100 100" role="presentation" class="icon--close">:<use xlink:href="#close"></use></svg></div>
+
+				<ul id="menu-categories-menu" class="menu"><li id="menu-item-158" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-158"><a href="https://kinfolk.com/stories/design/">Design</a></li>
+<li id="menu-item-2519" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2519"><a href="https://kinfolk.com/stories/fashion/">Fashion</a></li>
+<li id="menu-item-2521" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2521"><a href="https://kinfolk.com/stories/interiors/">Interiors</a></li>
+<li id="menu-item-2518" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2518"><a href="https://kinfolk.com/stories/arts-culture/">Arts &#038; Culture</a></li>
+<li id="menu-item-2520" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-2520"><a href="https://kinfolk.com/stories/food/">Food</a></li>
+<li id="menu-item-232" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-232"><a href="https://kinfolk.com/city-guides/">City Guides</a></li>
+<li id="menu-item-145096" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-145096"><a href="https://kinfolk.com/stories/">All Stories</a></li>
+</ul>
+		<ul id="menu-main-menu" class="menu"><li id="menu-item-163" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-163"><a href="https://kinfolk.com/shop/">Shop</a></li>
+<li id="menu-item-163724" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item menu-item-163724"><a href="https://kinfolk.com/stories/issue-24/">Current Issue</a></li>
+<li id="menu-item-1582" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1582"><a href="https://kinfolk.com/info/about/">Info</a></li>
+<li id="menu-item-2815" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2815"><a href="https://kinfolk.com/gallery/">Gallery</a></li>
+</ul>
+		
+					<ul>
+				<li><a href="https://kinfolk.com/my-account/" title="Log In / Register">Log In / Register</a></li>
+				<li><a href="/product-category/subscriptions">Subscribe</a></li>
+			</ul>
+				<ul>
+			<li><a href="#" class="js-menu-newsletter">Newsletter &ndash; Sign Up</a>
+				
+            <form action="//kinfolk.us2.list-manage.com/subscribe/post?u=22754bb51e11b3de6912e768c&amp;id=2b97ca3731" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" novalidate="true" class="c-newsletter">
+                <div id="mc_embed_signup_scroll">
+
+                    <div class="c-newsletter__group">
+                        <label for="mce-EMAIL" class="c-newsletter__label">Newsletter Signup</label>
+                        <div class="c-newsletter__input-wrap">
+                            <input type="email" value="" name="EMAIL" class="c-newsletter__input" placeholder="Email Address" id="mce-EMAIL" aria-required="true">
+                            <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="c-newsletter__submit">
+                        </div>
+                    </div>
+                    <div id="mce-responses" class="clear">
+                        <div class="response" id="mce-error-response" style="display:none"></div>
+                        <div class="response" id="mce-success-response" style="display:none"></div>
+                    </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+                    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_22754bb51e11b3de6912e768c_2b97ca3731" tabindex="-1" value=""></div>
+                </div>
+            </form>
+
+            			</li>
+		</ul>
+		<ul class="c-social c-social--follow"><li class="c-social__network"><a href="https://uk.pinterest.com/kinfolkmagazine" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--pinterest">:<use xlink:href="#pinterest"></use></svg></a></li><li class="c-social__network"><a href="https://www.facebook.com/kinfolkmag" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--facebook">:<use xlink:href="#facebook"></use></svg></a></li><li class="c-social__network"><a href="https://twitter.com/kinfolkmag" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--twitter">:<use xlink:href="#twitter"></use></svg></a></li><li class="c-social__network"><a href="http://instagram.com/kinfolk" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--instagram">:<use xlink:href="#instagram"></use></svg></a></li></ul>		<div class="pushy__bottom">
+			&copy; Kinfolk 2016		</div>
+	</nav>
+
+	
+    <div class="site-overlay"></div>
+
+    <div id="container">
+    	<div class="container">
+    		<main class="l-main">
+
+    <div class="row column">
+        <div class="module">
+
+            <h1 class="module__title">My Account</h1>
+
+            
+            <div class="woocommerce">
+
+
+
+<div class="u-columns col2-set" id="customer_login">
+
+	<div class="u-column1 col-1">
+
+
+		<h2>Login</h2>
+
+		<form method="post" class="login">
+
+			
+			<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide">
+				<label for="username">Email address <span class="required">*</span></label>
+				<input type="text" class="woocommerce-Input woocommerce-Input--text input-text" name="username" id="username" value="" />
+			</p>
+			<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide">
+				<label for="password">Password <span class="required">*</span></label>
+				<input class="woocommerce-Input woocommerce-Input--text input-text" type="password" name="password" id="password" />
+			</p>
+
+			
+			<p class="form-row">
+				<input type="hidden" id="woocommerce-login-nonce" name="woocommerce-login-nonce" value="3050b9cba6" /><input type="hidden" name="_wp_http_referer" value="/my-account/" />				<input type="submit" class="woocommerce-Button button" name="login" value="Login" />
+				<input class="woocommerce-Input woocommerce-Input--checkbox" name="rememberme" type="checkbox" id="rememberme" value="forever" />
+				<label for="rememberme" class="inline ml15">Remember me</label>
+			</p>
+			<p class="woocommerce-LostPassword lost_password">
+				<a href="https://kinfolk.com/my-account/lost-password/">Lost your password?</a>
+			</p>
+
+			
+		</form>
+
+
+	</div>
+
+	<div class="u-column2 col-2">
+
+		<h2>Register</h2>
+
+		<form method="post" class="register">
+
+			
+			
+			<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide">
+				<label for="reg_email">Email address <span class="required">*</span></label>
+				<input type="email" class="woocommerce-Input woocommerce-Input--text input-text" name="email" id="reg_email" value="" />
+			</p>
+
+			
+				<p class="woocommerce-FormRow woocommerce-FormRow--wide form-row form-row-wide">
+					<label for="reg_password">Password <span class="required">*</span></label>
+					<input type="password" class="woocommerce-Input woocommerce-Input--text input-text" name="password" id="reg_password" />
+				</p>
+
+			
+			<!-- WAT amend wholesale application -->
+			
+						<p class="form-row">
+				<input class="woocommerce-Input woocommerce-Input--checkbox" name="showwholesale" type="checkbox" id="showwholesale" value="forever" />
+				<label for="showwholesale" class="inline">Wholesale registration?</label>
+			</p>
+						<div id="wholesale-wrapper" class="wholesale-wrapper">
+				<h2>Company Details</h2>
+
+                <p class="form-row form-row-first">
+                    <label for="company">Company Name <span class="required">*</span></label>
+                    <input type="text" class="input-text" name="company" id="company" />
+                </p>
+                <div class="clear"></div>
+
+                <p class="form-row form-row-first">
+                    <label for="contactname">Contact Name <span class="required">*</span></label>
+                    <input type="text" class="input-text" name="contactname" id="contactname" />
+                </p>
+                <p class="form-row form-row-last">
+                    <label for="contactphonenumber">Contact Phone Number <span class="required">*</span></label>
+                    <input type="text" class="input-text" name="contactphonenumber" id="contactphonenumber" />
+                </p>
+                <div class="clear"></div>
+
+                <p class="form-row form-row-first">
+                    <label for="websiteurl">Website URL <span class="required">*</span></label>
+                    <input type="text" class="input-text" name="websiteurl" id="websiteurl" />
+                </p>
+                <div class="clear"></div>
+
+                <p class="form-row form-row form-row-first validate-required" id="country_field"><label for="country" class="">Country <abbr class="required" title="required">*</abbr></label><select name="country" id="country"  class="country_to_state country_select " ><option value="">Select a country&hellip;</option><option value="AX" >&#197;land Islands</option><option value="AF" >Afghanistan</option><option value="AL" >Albania</option><option value="DZ" >Algeria</option><option value="AS" >American Samoa</option><option value="AD" >Andorra</option><option value="AO" >Angola</option><option value="AI" >Anguilla</option><option value="AQ" >Antarctica</option><option value="AG" >Antigua and Barbuda</option><option value="AR" >Argentina</option><option value="AM" >Armenia</option><option value="AW" >Aruba</option><option value="AU" >Australia</option><option value="AT" >Austria</option><option value="AZ" >Azerbaijan</option><option value="BS" >Bahamas</option><option value="BH" >Bahrain</option><option value="BD" >Bangladesh</option><option value="BB" >Barbados</option><option value="BY" >Belarus</option><option value="PW" >Belau</option><option value="BE" >Belgium</option><option value="BZ" >Belize</option><option value="BJ" >Benin</option><option value="BM" >Bermuda</option><option value="BT" >Bhutan</option><option value="BO" >Bolivia</option><option value="BQ" >Bonaire, Saint Eustatius and Saba</option><option value="BA" >Bosnia and Herzegovina</option><option value="BW" >Botswana</option><option value="BV" >Bouvet Island</option><option value="BR" >Brazil</option><option value="IO" >British Indian Ocean Territory</option><option value="VG" >British Virgin Islands</option><option value="BN" >Brunei</option><option value="BG" >Bulgaria</option><option value="BF" >Burkina Faso</option><option value="BI" >Burundi</option><option value="KH" >Cambodia</option><option value="CM" >Cameroon</option><option value="CA" >Canada</option><option value="CV" >Cape Verde</option><option value="KY" >Cayman Islands</option><option value="CF" >Central African Republic</option><option value="TD" >Chad</option><option value="CL" >Chile</option><option value="CN" >China</option><option value="CX" >Christmas Island</option><option value="CC" >Cocos (Keeling) Islands</option><option value="CO" >Colombia</option><option value="KM" >Comoros</option><option value="CG" >Congo (Brazzaville)</option><option value="CD" >Congo (Kinshasa)</option><option value="CK" >Cook Islands</option><option value="CR" >Costa Rica</option><option value="HR" >Croatia</option><option value="CU" >Cuba</option><option value="CW" >Cura&ccedil;ao</option><option value="CY" >Cyprus</option><option value="CZ" >Czech Republic</option><option value="DK" >Denmark</option><option value="DJ" >Djibouti</option><option value="DM" >Dominica</option><option value="DO" >Dominican Republic</option><option value="EC" >Ecuador</option><option value="EG" >Egypt</option><option value="SV" >El Salvador</option><option value="GQ" >Equatorial Guinea</option><option value="ER" >Eritrea</option><option value="EE" >Estonia</option><option value="ET" >Ethiopia</option><option value="FK" >Falkland Islands</option><option value="FO" >Faroe Islands</option><option value="FJ" >Fiji</option><option value="FI" >Finland</option><option value="FR" >France</option><option value="GF" >French Guiana</option><option value="PF" >French Polynesia</option><option value="TF" >French Southern Territories</option><option value="GA" >Gabon</option><option value="GM" >Gambia</option><option value="GE" >Georgia</option><option value="DE" >Germany</option><option value="GH" >Ghana</option><option value="GI" >Gibraltar</option><option value="GR" >Greece</option><option value="GL" >Greenland</option><option value="GD" >Grenada</option><option value="GP" >Guadeloupe</option><option value="GU" >Guam</option><option value="GT" >Guatemala</option><option value="GG" >Guernsey</option><option value="GN" >Guinea</option><option value="GW" >Guinea-Bissau</option><option value="GY" >Guyana</option><option value="HT" >Haiti</option><option value="HM" >Heard Island and McDonald Islands</option><option value="HN" >Honduras</option><option value="HK" >Hong Kong</option><option value="HU" >Hungary</option><option value="IS" >Iceland</option><option value="IN" >India</option><option value="ID" >Indonesia</option><option value="IR" >Iran</option><option value="IQ" >Iraq</option><option value="IM" >Isle of Man</option><option value="IL" >Israel</option><option value="IT" >Italy</option><option value="CI" >Ivory Coast</option><option value="JM" >Jamaica</option><option value="JP" >Japan</option><option value="JE" >Jersey</option><option value="JO" >Jordan</option><option value="KZ" >Kazakhstan</option><option value="KE" >Kenya</option><option value="KI" >Kiribati</option><option value="KW" >Kuwait</option><option value="KG" >Kyrgyzstan</option><option value="LA" >Laos</option><option value="LV" >Latvia</option><option value="LB" >Lebanon</option><option value="LS" >Lesotho</option><option value="LR" >Liberia</option><option value="LY" >Libya</option><option value="LI" >Liechtenstein</option><option value="LT" >Lithuania</option><option value="LU" >Luxembourg</option><option value="MO" >Macao S.A.R., China</option><option value="MK" >Macedonia</option><option value="MG" >Madagascar</option><option value="MW" >Malawi</option><option value="MY" >Malaysia</option><option value="MV" >Maldives</option><option value="ML" >Mali</option><option value="MT" >Malta</option><option value="MH" >Marshall Islands</option><option value="MQ" >Martinique</option><option value="MR" >Mauritania</option><option value="MU" >Mauritius</option><option value="YT" >Mayotte</option><option value="MX" >Mexico</option><option value="FM" >Micronesia</option><option value="MD" >Moldova</option><option value="MC" >Monaco</option><option value="MN" >Mongolia</option><option value="ME" >Montenegro</option><option value="MS" >Montserrat</option><option value="MA" >Morocco</option><option value="MZ" >Mozambique</option><option value="MM" >Myanmar</option><option value="NA" >Namibia</option><option value="NR" >Nauru</option><option value="NP" >Nepal</option><option value="NL" >Netherlands</option><option value="NC" >New Caledonia</option><option value="NZ" >New Zealand</option><option value="NI" >Nicaragua</option><option value="NE" >Niger</option><option value="NG" >Nigeria</option><option value="NU" >Niue</option><option value="NF" >Norfolk Island</option><option value="KP" >North Korea</option><option value="MP" >Northern Mariana Islands</option><option value="NO" >Norway</option><option value="OM" >Oman</option><option value="PK" >Pakistan</option><option value="PS" >Palestinian Territory</option><option value="PA" >Panama</option><option value="PG" >Papua New Guinea</option><option value="PY" >Paraguay</option><option value="PE" >Peru</option><option value="PH" >Philippines</option><option value="PN" >Pitcairn</option><option value="PL" >Poland</option><option value="PT" >Portugal</option><option value="PR" >Puerto Rico</option><option value="QA" >Qatar</option><option value="IE" >Republic of Ireland</option><option value="RE" >Reunion</option><option value="RO" >Romania</option><option value="RU" >Russia</option><option value="RW" >Rwanda</option><option value="ST" >S&atilde;o Tom&eacute; and Pr&iacute;ncipe</option><option value="BL" >Saint Barth&eacute;lemy</option><option value="SH" >Saint Helena</option><option value="KN" >Saint Kitts and Nevis</option><option value="LC" >Saint Lucia</option><option value="SX" >Saint Martin (Dutch part)</option><option value="MF" >Saint Martin (French part)</option><option value="PM" >Saint Pierre and Miquelon</option><option value="VC" >Saint Vincent and the Grenadines</option><option value="WS" >Samoa</option><option value="SM" >San Marino</option><option value="SA" >Saudi Arabia</option><option value="SN" >Senegal</option><option value="RS" >Serbia</option><option value="SC" >Seychelles</option><option value="SL" >Sierra Leone</option><option value="SG" >Singapore</option><option value="SK" >Slovakia</option><option value="SI" >Slovenia</option><option value="SB" >Solomon Islands</option><option value="SO" >Somalia</option><option value="ZA" >South Africa</option><option value="GS" >South Georgia/Sandwich Islands</option><option value="KR" >South Korea</option><option value="SS" >South Sudan</option><option value="ES" >Spain</option><option value="LK" >Sri Lanka</option><option value="SD" >Sudan</option><option value="SR" >Suriname</option><option value="SJ" >Svalbard and Jan Mayen</option><option value="SZ" >Swaziland</option><option value="SE" >Sweden</option><option value="CH" >Switzerland</option><option value="SY" >Syria</option><option value="TW" >Taiwan</option><option value="TJ" >Tajikistan</option><option value="TZ" >Tanzania</option><option value="TH" >Thailand</option><option value="TL" >Timor-Leste</option><option value="TG" >Togo</option><option value="TK" >Tokelau</option><option value="TO" >Tonga</option><option value="TT" >Trinidad and Tobago</option><option value="TN" >Tunisia</option><option value="TR" >Turkey</option><option value="TM" >Turkmenistan</option><option value="TC" >Turks and Caicos Islands</option><option value="TV" >Tuvalu</option><option value="UG" >Uganda</option><option value="UA" >Ukraine</option><option value="AE" >United Arab Emirates</option><option value="GB" >United Kingdom (UK)</option><option value="US"  selected='selected'>United States (US)</option><option value="UM" >United States (US) Minor Outlying Islands</option><option value="VI" >United States (US) Virgin Islands</option><option value="UY" >Uruguay</option><option value="UZ" >Uzbekistan</option><option value="VU" >Vanuatu</option><option value="VA" >Vatican</option><option value="VE" >Venezuela</option><option value="VN" >Vietnam</option><option value="WF" >Wallis and Futuna</option><option value="EH" >Western Sahara</option><option value="YE" >Yemen</option><option value="ZM" >Zambia</option><option value="ZW" >Zimbabwe</option></select><noscript><input type="submit" name="woocommerce_checkout_update_totals" value="Update country" /></noscript></p>
+                <p class="form-row form-row form-row-last validate-required" id="state_field"><label for="state" class="">State/County <abbr class="required" title="required">*</abbr></label><select name="state" id="state" class="state_select "  data-placeholder="" >
+						<option value="">Select a state&hellip;</option><option value="AL" >Alabama</option><option value="AK" >Alaska</option><option value="AZ" >Arizona</option><option value="AR" >Arkansas</option><option value="CA" >California</option><option value="CO" >Colorado</option><option value="CT" >Connecticut</option><option value="DE" >Delaware</option><option value="DC" >District Of Columbia</option><option value="FL" >Florida</option><option value="GA" >Georgia</option><option value="HI" >Hawaii</option><option value="ID" >Idaho</option><option value="IL" >Illinois</option><option value="IN" >Indiana</option><option value="IA" >Iowa</option><option value="KS" >Kansas</option><option value="KY" >Kentucky</option><option value="LA" >Louisiana</option><option value="ME" >Maine</option><option value="MD" >Maryland</option><option value="MA" >Massachusetts</option><option value="MI" >Michigan</option><option value="MN" >Minnesota</option><option value="MS" >Mississippi</option><option value="MO" >Missouri</option><option value="MT" >Montana</option><option value="NE" >Nebraska</option><option value="NV" >Nevada</option><option value="NH" >New Hampshire</option><option value="NJ" >New Jersey</option><option value="NM" >New Mexico</option><option value="NY" >New York</option><option value="NC" >North Carolina</option><option value="ND" >North Dakota</option><option value="OH" >Ohio</option><option value="OK" >Oklahoma</option><option value="OR"  selected='selected'>Oregon</option><option value="PA" >Pennsylvania</option><option value="RI" >Rhode Island</option><option value="SC" >South Carolina</option><option value="SD" >South Dakota</option><option value="TN" >Tennessee</option><option value="TX" >Texas</option><option value="UT" >Utah</option><option value="VT" >Vermont</option><option value="VA" >Virginia</option><option value="WA" >Washington</option><option value="WV" >West Virginia</option><option value="WI" >Wisconsin</option><option value="WY" >Wyoming</option><option value="AA" >Armed Forces (AA)</option><option value="AE" >Armed Forces (AE)</option><option value="AP" >Armed Forces (AP)</option></select></p>	        </div>
+		
+			<!-- Spam Trap -->
+			<div style="left: -999em; position: absolute;"><label for="trap">Anti-spam</label><input type="text" name="email_2" id="trap" tabindex="-1" /></div>
+
+						
+			<p class="woocomerce-FormRow form-row">
+				<input type="hidden" id="woocommerce-register-nonce" name="woocommerce-register-nonce" value="8cd0198ba7" /><input type="hidden" name="_wp_http_referer" value="/my-account/" />				<input type="submit" class="woocommerce-Button button" name="register" value="Register" />
+			</p>
+
+		
+
+
+
+			
+		</form>
+
+	</div>
+
+</div>
+
+</div>
+
+            
+        </div>
+    </div>
+
+
+            </main>
+        </div><!-- /#container -->
+
+		<footer class="l-footer">
+            <div class="container">
+    			<div class="row column">
+                    <div class="l-footer__inner">
+                        <div class="row collapse">
+                            <div class="columns small-12 medium-4 medium-push-4">
+                                <div class="l-footer__social">
+                                    <ul class="c-social c-social--follow"><li class="c-social__network"><a href="https://uk.pinterest.com/kinfolkmagazine" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--pinterest">:<use xlink:href="#pinterest"></use></svg></a></li><li class="c-social__network"><a href="https://www.facebook.com/kinfolkmag" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--facebook">:<use xlink:href="#facebook"></use></svg></a></li><li class="c-social__network"><a href="https://twitter.com/kinfolkmag" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--twitter">:<use xlink:href="#twitter"></use></svg></a></li><li class="c-social__network"><a href="http://instagram.com/kinfolk" target="_blank"><svg viewBox="0 0 100 100" role="presentation" class="icon--instagram">:<use xlink:href="#instagram"></use></svg></a></li></ul>                                </div>
+                            </div>
+                            <div class="columns small-8 medium-4 medium-pull-4">
+                                <div class="l-footer__legal">
+                                    &copy;Kinfolk 2017                                                                        <a href="https://kinfolk.com/terms-and-conditions/">Terms &amp; Conditions</a>
+                                                                    </div>
+                            </div>
+                            <div class="columns small-4 medium-4">
+                                <div class="l-footer__site-by">
+                                    Site by <a href="http://www.madebysix.com" target="_blank">Six</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+		</footer>
+
+        
+        		<script type="text/javascript">
+			(function($){
+
+				var guest_id = 0;
+				var email = '';
+				var $checkout_form = $( 'form.checkout' );
+				var checkout_fields = ["billing_first_name","billing_last_name","billing_company","billing_phone","billing_country","billing_address_1","billing_address_2","billing_city","billing_state","billing_postcode"];
+				var checkout_fields_data = {};
+				var language = '';
+
+				$.each( checkout_fields, function( i, field_name ) {
+					checkout_fields_data[field_name] = '';
+				});
+
+
+				function captureEmail() {
+
+					if ( ! $(this).val() || email == $(this).val() ) {
+						return;
+					}
+
+					email = $(this).val();
+
+					var data = {
+						email: email,
+						location: window.location.href,
+						language: language,
+						checkout_fields: checkout_fields_data
+					};
+
+					$.post( '/my-account/?aw-ajax=capture_email', data, function( response ) {
+						if ( response && response.success ) {
+							guest_id = response.data.guest_id;
+						}
+					});
+				}
+
+
+				function captureCheckoutField() {
+
+					var field_name = $(this).attr( 'name' );
+
+					if ( ! field_name || checkout_fields.indexOf( field_name ) == -1  ) {
+						return;
+					}
+
+					if ( ! $(this).val() || checkout_fields_data[field_name] == $(this).val() ) {
+						return;
+					}
+
+					checkout_fields_data[field_name] = $(this).val();
+
+					if ( guest_id ) {
+						$.post( '/my-account/?aw-ajax=capture_checkout_field', {
+							guest_id: guest_id,
+							field_name: field_name,
+							field_value: checkout_fields_data[field_name]
+						});
+					}
+				}
+
+
+				$(document).on( 'blur', '#billing_email, .automatewoo-capture-guest-email', captureEmail );
+				$checkout_form.on( 'change', 'select', captureCheckoutField );
+				$checkout_form.on( 'blur', '.input-text', captureCheckoutField );
+
+			})(jQuery);
+		</script>
+		<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/jquery/ui/sortable.min.js?ver=1.11.4'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/my-account\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"https:\/\/kinfolk.com\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kinfolk.com/wp-content/themes/kinfolk2016/woocommerce/assets/js/add-to-cart.js?ver=2.6.8'></script>
+<script type='text/javascript' src='//kinfolk.com/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/my-account\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//kinfolk.com/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.6.8'></script>
+<script type='text/javascript' src='//kinfolk.com/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/my-account\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='//kinfolk.com/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.6.8'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wpAPIData = {"debug":"","nonce":"cf8cf2a5fe","siteUrl":"https:\/\/kinfolk.com","themeUrl":"\/wp-content\/themes\/kinfolk2016\/","ajaxurl":"https:\/\/kinfolk.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='https://kinfolk.com/wp-content/themes/kinfolk2016/assets/js/main.js?ver=1.3.1'></script>
+<script type='text/javascript' src='https://kinfolk.com/wp-includes/js/wp-embed.min.js?ver=4.6.6'></script>
+
+	</body>
+</html>

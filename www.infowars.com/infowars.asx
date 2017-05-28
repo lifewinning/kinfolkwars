@@ -1,0 +1,22 @@
+<ASX VERSION = "3.0">
+  <ENTRY>
+    <TITLE>The Alex Jones Show</TITLE>
+    <AUTHOR>Infowars.com</AUTHOR>
+    <REF HREF = "http://stream-mp3.infowars.com" />
+    <REF HREF = "http://stream-mp3-us.infowars.com" />
+    <REF HREF = "http://stream-mp3-eu.infowars.com" />
+    <REF HREF = "http://stream-aac.infowars.com" />
+    <REF HREF = "http://stream-aac-us.infowars.com" />
+    <REF HREF = "http://stream-aac-eu.infowars.com" />
+    <REF HREF = "http://stream-mp3.infowars.com" />
+    <REF HREF = "http://stream-mp3-us.infowars.com" />
+    <REF HREF = "http://stream-mp3-eu.infowars.com" />
+    <REF HREF = "http://stream-aac.infowars.com" />
+    <REF HREF = "http://stream-aac-us.infowars.com" />
+    <REF HREF = "http://stream-aac-eu.infowars.com" />
+    <BANNER HREF="http://www.infowars.com/images/infowars-wm-logo.jpg">
+      <ABSTRACT>The Alex Jones Show</ABSTRACT>
+      <MOREINFO HREF="http://www.infowars.com" />
+    </BANNER>
+  </ENTRY>
+</ASX>
